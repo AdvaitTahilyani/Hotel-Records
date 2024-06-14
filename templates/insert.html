@@ -1,0 +1,39 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Insert
+{% endblock %}
+
+{% block main %}
+    <form action="/insert" method="post">
+        {%for row in list%}
+        {%if row[0] == "Name"%}
+            <div class="form-group">
+                <label for="{{row[0]}}">{{row[1]}}</label>
+                <input autocomplete="off" autofocus class="form-control" name="{{row[0]}}" id = "{{row[0]}}" placeholder={{row[1]}} type="text" required>
+            </div>
+        {%elif row[0] == "Bill_amount"%}
+            <div class="form-group">
+                <label for="{{row[0]}}">{{row[1]}}</label>
+                <input autocomplete="off" autofocus class="form-control" name="{{row[0]}}" id = "{{row[0]}}" placeholder={{row[1]}} type="number" min = 0 step="0.01" required>
+            </div>
+        {%else%}
+            <div class="form-group">
+                <label for="{{row[0]}}">{{row[1]}}</label>
+                <input autocomplete="off" autofocus class="form-control" name="{{row[0]}}" id = "{{row[0]}}" placeholder={{row[1]}} type="number" min = 0 required>
+            </div>
+        {%endif%}
+        {%endfor%}
+        {%for i in range(7)%}
+            <div class = "form-group">
+                <label for="{{search[i]}}">{{look[i]}}</label>
+                <select name = "{{search[i]}}", id = "{{search[i]}}", placeholder = {{search[i]}}>
+                    {%for j in check[i]%}
+                        <option value = "{{j[search[i]]}}">{{j[search[i]]}}</option>
+                    {%endfor%}
+                </select>
+            </div>
+        {%endfor%}
+        <button class="btn btn-primary" id = "submit" name = 'submit' type="submit">Insert</button>
+    </form>
+{% endblock %}

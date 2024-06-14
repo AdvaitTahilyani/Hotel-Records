@@ -1,0 +1,716 @@
+customer_id,marital status,AGE,Age_bucket,Income_ Range,Last Bill Amount,PREFERRED_Communication,LAST_PAYMENT_METHOD,Gender,No of Transaction,Travel_Type,No Of Visit,Last_last services Category used,Customer Type
+1,0,25,21-30,"300,000-500,000",57839,HARD COPY,Digital,Male,7,Business Travel,1,Executive Suite,HVC
+2,0,31,31-40,"300,000-500,000",48720,EMAIL,Cash,Male,15,Self-trip,7,Family room,HVC
+3,0,36,31-40,"1,000,000-1,500,000 ",2050,HARD COPY,Cash,Male,10,Business Travel,2,Executive Suite,HVC
+4,0,44,41-50,"1,000,000-1,500,000 ",14350,HARD COPY,Cash,Male,31,Tourist-trip,1,Suite,HVC
+5,1,45,41-50,"1,500,000-2,000,000 ",4082,HARD COPY,Digital,Male,34,Business Travel,1,Presidential Suite,HVC
+6,0,47,41-50,"1,500,000-2,000,000 ",106000,HARD COPY,Digital,Male,5,Tourist-trip,4,Suite,HVC
+7,1,47,41-50,"1,500,000-2,000,000 ",1826,EMAIL,Digital,Male,15,Business Travel,3,Presidential Suite,HVC
+8,1,33,31-40,"300,000-500,000",5298,HARD COPY,Cash,Male,7,Business Travel,1,Executive Suite,HVC
+9,1,35,31-40,"1,000,000-1,500,000 ",2083,EMAIL,Cash,Male,15,Tourist-trip,1,Suite,HVC
+10,1,33,31-40,"300,000-500,000",2262,EMAIL,Digital,Male,31,Business Travel,1,Executive Suite,HVC
+11,1,35,31-40,"1,000,000-1,500,000 ",24990,HARD COPY,Cash,Female,15,Tourist-trip,1,Suite,HVC
+12,0,38,31-40,"1,000,000-1,500,000 ",28000,HARD COPY,Cash,Male,12,Business Travel,4,Executive Suite,HVC
+13,0,34,31-40,"250,000-300,000",3744,EMAIL,Cash,Male,7,Business Travel,1,Executive Suite,HVC
+14,1,55,51-60,"2,000,000-2,500,000 ",25000,HARD COPY,Cash,Male,5,Tourist-trip,3,Suite,HVC
+15,1,43,41-50,"1,000,000-1,500,000 ",21165,HARD COPY,Digital,Male,31,Tourist-trip,3,Suite,HVC
+16,1,43,41-50,"1,000,000-1,500,000 ",11600,HARD COPY,Cash,Male,31,Tourist-trip,9,Suite,HVC
+17,1,41,41-50,"1,000,000-1,500,000 ",3666,HARD COPY,Cash,Male,20,Self-trip,7,Family room,HVC
+18,1,34,31-40,"300,000-500,000",1999,HARD COPY,Cash,Male,15,Tourist-trip,1,Suite,HVC
+19,1,32,31-40,"250,000-300,000",30000,HARD COPY,Cash,Male,20,Tourist-trip,5,Suite,HVC
+20,1,42,41-50,"1,000,000-1,500,000 ",12206,HARD COPY,Cash,Male,15,Self-trip,2,Family room,HVC
+21,1,49,41-50,"1,500,000-2,000,000 ",1862,HARD COPY,Digital,Male,15,Business Travel,1,Presidential Suite,HVC
+22,1,51,51-60,"1,500,000-2,000,000 ",83300,HARD COPY,Cash,Male,31,Tourist-trip,6,Suite,HVC
+23,0,43,41-50,"1,000,000-1,500,000 ",50000,HARD COPY,Cash,Male,7,Tourist-trip,1,Suite,HVC
+24,1,36,31-40,"1,000,000-1,500,000 ",24900,EMAIL,Cash,Female,15,Tourist-trip,1,Suite,HVC
+25,1,41,41-50,"1,000,000-1,500,000 ",31269,HARD COPY,Cash,Female,3,Self-trip,1,Family room,HVC
+26,1,45,41-50,"1,500,000-2,000,000 ",30000,HARD COPY,Digital,Male,30,Tourist-trip,7,Suite,HVC
+27,1,52,51-60,"1,500,000-2,000,000 ",31800,EMAIL,Digital,Male,29,Tourist-trip,1,Suite,HVC
+28,1,35,31-40,"1,000,000-1,500,000 ",11850,HARD COPY,Cash,Male,31,Tourist-trip,1,Suite,HVC
+29,1,33,31-40,"250,000-300,000",7450,HARD COPY,Digital,Male,31,Tourist-trip,1,Suite,HVC
+30,1,32,31-40,"300,000-500,000",100000,EMAIL,Cash,Male,12,Business Travel,1,Executive Suite,HVC
+31,0,26,21-30,"300,000-500,000",50077,HARD COPY,Digital,Male,9,Self-trip,1,Family room,HVC
+32,1,42,41-50,"1,000,000-1,500,000 ",35700,HARD COPY,Digital,Male,30,Tourist-trip,1,Suite,HVC
+33,1,35,31-40,"1,000,000-1,500,000 ",2226,HARD COPY,Cash,Female,9,Self-trip,1,Family room,HVC
+34,1,49,41-50,"1,500,000-2,000,000 ",32450,EMAIL,Digital,Male,30,Business Travel,1,Presidential Suite,HVC
+35,1,45,41-50,"1,500,000-2,000,000 ",8850,HARD COPY,Cash,Male,25,Business Travel,2,Presidential Suite,HVC
+36,1,43,41-50,"1,000,000-1,500,000 ",8300,HARD COPY,Cash,Male,25,Business Travel,3,Executive Suite,HVC
+37,1,56,51-60,"2,000,000-2,500,000 ",228500,HARD COPY,Digital,Male,26,Tourist-trip,1,Suite,HVC
+38,1,50,41-50,"1,500,000-2,000,000 ",143000,HARD COPY,Digital,Male,32,Tourist-trip,1,Suite,HVC
+39,0,44,41-50,"1,000,000-1,500,000 ",76200,HARD COPY,Cash,Male,5,Tourist-trip,1,Suite,HVC
+40,0,48,41-50,"1,500,000-2,000,000 ",44900,HARD COPY,Cash,Male,34,Tourist-trip,1,Suite,HVC
+41,1,45,41-50,"1,500,000-2,000,000 ",20000,HARD COPY,Cash,Female,15,Tourist-trip,1,Suite,HVC
+42,1,51,51-60,"1,500,000-2,000,000 ",30150,HARD COPY,Digital,Male,30,Tourist-trip,6,Suite,HVC
+43,1,51,51-60,"1,500,000-2,000,000 ",18000,HARD COPY,Digital,Male,12,Business Travel,1,Presidential Suite,HVC
+44,1,43,41-50,"1,000,000-1,500,000 ",15000,HARD COPY,Cash,Male,20,Tourist-trip,2,Suite,HVC
+45,1,38,31-40,"1,000,000-1,500,000 ",18180,HARD COPY,Cash,Male,20,Tourist-trip,2,Suite,HVC
+46,1,38,31-40,"1,000,000-1,500,000 ",8247,HARD COPY,Digital,Male,31,Tourist-trip,7,Suite,HVC
+47,1,33,31-40,"300,000-500,000",15544,HARD COPY,Digital,Female,30,Self-trip,2,Family room,HVC
+48,1,35,31-40,"1,000,000-1,500,000 ",40048,HARD COPY,Digital,Male,7,Business Travel,1,Executive Suite,HVC
+49,0,41,41-50,"1,000,000-1,500,000 ",3640,HARD COPY,Cash,Male,30,Business Travel,10,Executive Suite,HVC
+50,1,43,41-50,"1,000,000-1,500,000 ",24000,HARD COPY,Digital,Male,20,Tourist-trip,4,Suite,HVC
+51,0,48,41-50,"1,500,000-2,000,000 ",39200,HARD COPY,Digital,Male,33,Tourist-trip,1,Suite,HVC
+52,1,43,41-50,"1,000,000-1,500,000 ",15150,HARD COPY,Digital,Male,20,Tourist-trip,1,Suite,HVC
+53,1,30,21-30,"300,000-500,000",15000,HARD COPY,Cash,Male,20,Tourist-trip,1,Suite,HVC
+54,1,37,31-40,"1,000,000-1,500,000 ",16009,HARD COPY,Cash,Male,25,Self-trip,1,Family room,HVC
+55,1,39,31-40,"1,000,000-1,500,000 ",13020,HARD COPY,Digital,Male,31,Tourist-trip,1,Suite,HVC
+56,1,50,41-50,"1,500,000-2,000,000 ",255500,HARD COPY,Digital,Male,12,Business Travel,1,Presidential Suite,HVC
+57,1,39,31-40,"1,000,000-1,500,000 ",40000,EMAIL,Cash,Male,30,Tourist-trip,3,Suite,HVC
+58,0,45,41-50,"1,500,000-2,000,000 ",10320,HARD COPY,Cash,Female,20,Business Travel,1,Presidential Suite,HVC
+59,0,50,41-50,"1,500,000-2,000,000 ",2474,HARD COPY,Cash,Male,27,Business Travel,1,Presidential Suite,HVC
+60,1,43,41-50,"1,000,000-1,500,000 ",300000,HARD COPY,Digital,Male,12,Business Travel,3,Executive Suite,HVC
+61,1,50,41-50,"1,500,000-2,000,000 ",32000,HARD COPY,Cash,Male,12,Business Travel,3,Presidential Suite,HVC
+62,1,43,41-50,"1,000,000-1,500,000 ",112999,HARD COPY,Digital,Female,12,Business Travel,2,Executive Suite,HVC
+63,1,39,31-40,"1,000,000-1,500,000 ",102200,HARD COPY,Digital,Female,12,Business Travel,2,Executive Suite,HVC
+64,1,39,31-40,"1,000,000-1,500,000 ",187000,HARD COPY,Cash,Male,31,Tourist-trip,1,Suite,HVC
+65,0,43,41-50,"1,000,000-1,500,000 ",5978,HARD COPY,Digital,Male,33,Tourist-trip,1,Suite,HVC
+66,1,55,51-60,"2,000,000-2,500,000 ",47477.96,EMAIL,Cash,Male,30,Tourist-trip,2,Suite,HVC
+67,1,54,51-60,"1,500,000-2,000,000 ",30825,HARD COPY,Digital,Male,12,Self-trip,1,Executive Suite,HVC
+68,1,52,51-60,"1,500,000-2,000,000 ",30825,HARD COPY,Digital,Male,12,Self-trip,1,Executive Suite,HVC
+69,0,20,below 20,"300,000-500,000",7184,HARD COPY,Cash,Female,12,Self-trip,3,Family room,HVC
+70,0,31,31-40,"300,000-500,000",7184,HARD COPY,Cash,Female,12,Self-trip,4,Family room,HVC
+71,0,38,31-40,"1,000,000-1,500,000 ",17625,HARD COPY,Digital,Female,33,Self-trip,1,Family room,HVC
+72,0,27,21-30,"300,000-500,000",7184,HARD COPY,Cash,Female,12,Self-trip,2,Family room,HVC
+73,0,32,31-40,"300,000-500,000",1724,HARD COPY,Cash,Male,25,Business Travel,1,Executive Suite,HVC
+74,1,38,31-40,"1,000,000-1,500,000 ",74211,EMAIL,Digital,Female,15,Self-trip,2,Family room,HVC
+75,1,45,41-50,"1,500,000-2,000,000 ",9844,HARD COPY,Digital,Female,15,Self-trip,1,Executive Suite,HVC
+76,1,45,41-50,"1,500,000-2,000,000 ",9844,HARD COPY,Digital,Female,15,Self-trip,1,Executive Suite,HVC
+77,1,43,41-50,"1,000,000-1,500,000 ",66000,HARD COPY,Digital,Male,5,Tourist-trip,1,Suite,HVC
+78,0,35,31-40,"1,000,000-1,500,000 ",15870,EMAIL,Digital,Male,12,Self-trip,3,Family room,HVC
+79,1,63,above 60,"300,000-500,000",27125,EMAIL,Cash,Male,12,Self-trip,1,Family room,HVC
+80,1,40,31-40,"1,000,000-1,500,000 ",5340,EMAIL,Cash,Female,31,Business Travel,3,Executive Suite,HVC
+81,0,35,31-40,"1,000,000-1,500,000 ",10938,HARD COPY,Digital,Male,15,Self-trip,1,Family room,HVC
+82,0,30,21-30,"300,000-500,000",9912,HARD COPY,Digital,Female,15,Self-trip,1,Family room,HVC
+83,0,42,41-50,"1,000,000-1,500,000 ",31441,EMAIL,Digital,Male,12,Self-trip,1,Family room,HVC
+84,0,55,51-60,"2,000,000-2,500,000 ",31086,EMAIL,Digital,Male,12,Self-trip,2,Executive Suite,HVC
+85,0,32,31-40,"250,000-300,000",13800,HARD COPY,Digital,Male,12,Self-trip,2,Family room,HVC
+86,1,53,51-60,"1,500,000-2,000,000 ",2158,HARD COPY,Cash,Male,15,Self-trip,1,Executive Suite,HVC
+87,0,27,21-30,"300,000-500,000",13800,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+88,0,44,41-50,"1,000,000-1,500,000 ",3695,HARD COPY,Digital,Male,12,Self-trip,2,Family room,HVC
+89,0,23,21-30,"300,000-500,000",11069,EMAIL,Digital,Female,12,Self-trip,8,Family room,HVC
+90,0,32,31-40,"300,000-500,000",20961,EMAIL,Digital,Female,12,Self-trip,2,Family room,HVC
+91,1,40,31-40,"1,000,000-1,500,000 ",20850,EMAIL,Digital,Male,12,Self-trip,2,Family room,HVC
+92,1,40,31-40,"1,000,000-1,500,000 ",17674,EMAIL,Digital,Male,21,Self-trip,2,Family room,HVC
+93,1,50,41-50,"1,500,000-2,000,000 ",10991,HARD COPY,Digital,Male,30,Self-trip,1,Executive Suite,HVC
+94,1,47,41-50,"1,500,000-2,000,000 ",71100,EMAIL,Digital,Male,12,Self-trip,1,Executive Suite,HVC
+95,0,56,51-60,"2,000,000-2,500,000 ",3895,EMAIL,Digital,Male,26,Self-trip,3,Executive Suite,HVC
+96,0,59,51-60,"2,000,000-2,500,000 ",3768,HARD COPY,Digital,Female,20,Self-trip,1,Executive Suite,HVC
+97,0,32,31-40,"300,000-500,000",14200,EMAIL,Digital,Female,12,Self-trip,8,Family room,HVC
+98,0,41,41-50,"1,000,000-1,500,000 ",7350,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+99,1,56,51-60,"2,000,000-2,500,000 ",3030,HARD COPY,Digital,Male,15,Business Travel,1,Studio apartment,HVC
+100,0,31,31-40,"300,000-500,000",9350,HARD COPY,Digital,Female,15,Self-trip,1,Family room,HVC
+101,1,37,31-40,"1,000,000-1,500,000 ",34750,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+102,1,64,above 60,"300,000-500,000",27090,EMAIL,Digital,Male,15,Business Travel,1,Executive Suite,HVC
+103,1,33,31-40,"300,000-500,000",35000,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+104,1,62,above 60,"300,000-500,000",23410,HARD COPY,Digital,Female,15,Business Travel,1,Executive Suite,HVC
+105,1,30,21-30,"300,000-500,000",33750,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+106,1,31,31-40,"300,000-500,000",8756,EMAIL,Digital,Male,30,Self-trip,4,Family room,HVC
+107,1,37,31-40,"1,000,000-1,500,000 ",1835,HARD COPY,Digital,Male,20,Self-trip,1,Family room,HVC
+108,0,36,31-40,"1,000,000-1,500,000 ",13250,HARD COPY,Digital,Female,20,Business Travel,1,Executive Suite,HVC
+109,0,25,21-30,"300,000-500,000",7350,EMAIL,Cash,Male,12,Self-trip,4,Family room,HVC
+110,1,44,41-50,"1,000,000-1,500,000 ",23325,EMAIL,Digital,Male,25,Business Travel,2,Executive Suite,HVC
+111,1,43,41-50,"1,000,000-1,500,000 ",15136,HARD COPY,Digital,Female,15,Self-trip,1,Family room,HVC
+112,1,47,41-50,"1,500,000-2,000,000 ",15414,HARD COPY,Digital,Male,15,Self-trip,1,Executive Suite,HVC
+113,0,22,21-30,"300,000-500,000",2379,EMAIL,Digital,Male,15,Self-trip,1,Family room,HVC
+114,0,20,below 20,"300,000-500,000",9150,EMAIL,Digital,Female,15,Self-trip,2,Family room,HVC
+115,0,23,21-30,"300,000-500,000",9600,HARD COPY,Digital,Male,15,Self-trip,2,Family room,HVC
+116,0,60,51-60,"2,000,000-2,500,000 ",9150,HARD COPY,Digital,Male,15,Self-trip,2,Executive Suite,HVC
+117,0,23,21-30,"300,000-500,000",4667,EMAIL,Digital,Female,15,Self-trip,1,Family room,HVC
+118,0,38,31-40,"1,000,000-1,500,000 ",4543,EMAIL,Digital,Male,31,Self-trip,4,Family room,HVC
+119,0,41,41-50,"1,000,000-1,500,000 ",9762,HARD COPY,Digital,Male,15,Self-trip,1,Family room,HVC
+120,0,21,21-30,"300,000-500,000",9150,EMAIL,Digital,Male,15,Self-trip,2,Family room,HVC
+121,1,49,41-50,"1,500,000-2,000,000 ",3421,HARD COPY,Digital,Male,22,Self-trip,1,Executive Suite,HVC
+122,0,21,21-30,"300,000-500,000",9150,HARD COPY,Digital,Male,15,Self-trip,1,Family room,HVC
+123,1,51,51-60,"1,500,000-2,000,000 ",21900,EMAIL,Digital,Male,15,Business Travel,3,Presidential Suite,HVC
+124,0,29,21-30,"300,000-500,000",5574,EMAIL,Cash,Male,12,Self-trip,3,Family room,HVC
+125,0,35,31-40,"1,000,000-1,500,000 ",9414,HARD COPY,Digital,Male,15,Self-trip,1,Family room,HVC
+126,1,43,41-50,"1,000,000-1,500,000 ",8164,EMAIL,Cash,Male,15,Business Travel,1,Executive Suite,HVC
+127,0,28,21-30,"300,000-500,000",56800,EMAIL,Digital,Female,10,Self-trip,1,Family room,HVC
+128,0,33,31-40,"300,000-500,000",18486,EMAIL,Digital,Male,15,Self-trip,2,Family room,HVC
+129,1,64,above 60,"300,000-500,000",9468,EMAIL,Digital,Female,13,Business Travel,1,Executive Suite,HVC
+130,0,22,21-30,"300,000-500,000",17700,EMAIL,Digital,Female,15,Self-trip,1,Family room,HVC
+131,1,35,31-40,"1,000,000-1,500,000 ",9150,EMAIL,Cash,Female,15,Self-trip,3,Family room,HVC
+132,0,24,21-30,"300,000-500,000",9150,HARD COPY,Digital,Female,15,Self-trip,1,Family room,HVC
+133,1,35,31-40,"1,000,000-1,500,000 ",8555,HARD COPY,Cash,Male,15,Business Travel,1,Executive Suite,HVC
+134,1,43,41-50,"1,000,000-1,500,000 ",8164,EMAIL,Cash,Male,15,Business Travel,1,Executive Suite,HVC
+135,0,38,31-40,"1,000,000-1,500,000 ",3596,EMAIL,Cash,Male,15,Business Travel,1,Executive Suite,HVC
+136,0,33,31-40,"300,000-500,000",6708,EMAIL,Cash,Male,15,Business Travel,2,Executive Suite,HVC
+137,1,45,41-50,"1,500,000-2,000,000 ",2155,EMAIL,Cash,Male,15,Business Travel,1,Presidential Suite,HVC
+138,0,40,31-40,"1,000,000-1,500,000 ",3750,EMAIL,Cash,Male,15,Business Travel,3,Executive Suite,HVC
+139,0,37,31-40,"1,000,000-1,500,000 ",5301,HARD COPY,Cash,Male,15,Business Travel,1,Executive Suite,HVC
+140,1,41,41-50,"1,000,000-1,500,000 ",3844,EMAIL,Digital,Female,15,Business Travel,1,Executive Suite,HVC
+141,0,35,31-40,"1,000,000-1,500,000 ",5184,EMAIL,Digital,Male,15,Business Travel,2,Executive Suite,HVC
+142,0,39,31-40,"1,000,000-1,500,000 ",3668,EMAIL,Digital,Male,15,Business Travel,2,Executive Suite,HVC
+143,0,39,31-40,"1,000,000-1,500,000 ",1871,EMAIL,Cash,Male,15,Business Travel,3,Executive Suite,HVC
+144,0,39,31-40,"1,000,000-1,500,000 ",7192,EMAIL,Cash,Male,15,Business Travel,4,Executive Suite,HVC
+145,0,39,31-40,"1,000,000-1,500,000 ",5502,EMAIL,Cash,Male,15,Business Travel,3,Executive Suite,HVC
+146,0,29,21-30,"300,000-500,000",3270,EMAIL,Cash,Male,15,Business Travel,1,Executive Suite,HVC
+147,1,41,41-50,"1,000,000-1,500,000 ",9610,EMAIL,Cash,Male,15,Business Travel,4,Executive Suite,HVC
+148,0,35,31-40,"1,000,000-1,500,000 ",6981,EMAIL,Cash,Male,15,Business Travel,4,Executive Suite,HVC
+149,0,35,31-40,"1,000,000-1,500,000 ",3422,EMAIL,Cash,Male,15,Business Travel,2,Executive Suite,HVC
+150,1,51,51-60,"1,500,000-2,000,000 ",7450,HARD COPY,Cash,Male,12,Self-trip,1,Executive Suite,HVC
+151,0,39,31-40,"1,000,000-1,500,000 ",5502,EMAIL,Cash,Male,15,Business Travel,8,Executive Suite,HVC
+152,1,39,31-40,"1,000,000-1,500,000 ",3668,EMAIL,Cash,Male,15,Business Travel,3,Executive Suite,HVC
+153,0,37,31-40,"1,000,000-1,500,000 ",4752,EMAIL,Digital,Male,15,Business Travel,5,Executive Suite,HVC
+154,1,41,41-50,"1,000,000-1,500,000 ",5625,EMAIL,Cash,Male,15,Business Travel,5,Executive Suite,HVC
+155,0,37,31-40,"1,000,000-1,500,000 ",8835,EMAIL,Cash,Male,15,Business Travel,2,Executive Suite,HVC
+156,1,39,31-40,"1,000,000-1,500,000 ",3668,HARD COPY,Cash,Male,15,Business Travel,1,Executive Suite,HVC
+157,1,44,41-50,"1,000,000-1,500,000 ",4226,EMAIL,Cash,Male,15,Business Travel,2,Executive Suite,HVC
+158,0,39,31-40,"1,000,000-1,500,000 ",3596,EMAIL,Cash,Male,15,Business Travel,1,Executive Suite,HVC
+159,1,38,31-40,"1,000,000-1,500,000 ",3534,EMAIL,Digital,Male,15,Business Travel,2,Executive Suite,HVC
+160,1,52,51-60,"1,500,000-2,000,000 ",8949,EMAIL,Cash,Male,15,Business Travel,4,Presidential Suite,HVC
+161,0,37,31-40,"1,000,000-1,500,000 ",3534,EMAIL,Cash,Male,15,Business Travel,2,Executive Suite,HVC
+162,0,35,31-40,"1,000,000-1,500,000 ",4690,HARD COPY & EMAIL,Digital,Male,15,Business Travel,3,Executive Suite,HVC
+163,0,37,31-40,"1,000,000-1,500,000 ",3534,HARD COPY,Cash,Male,15,Business Travel,1,Executive Suite,HVC
+164,1,39,31-40,"1,000,000-1,500,000 ",3668,EMAIL,Digital,Male,15,Business Travel,1,Executive Suite,HVC
+165,1,53,51-60,"1,500,000-2,000,000 ",6570,HARD COPY,Digital,Male,15,Business Travel,1,Presidential Suite,HVC
+166,1,41,41-50,"1,000,000-1,500,000 ",3921,HARD COPY,Cash,Male,15,Business Travel,3,Executive Suite,HVC
+167,1,42,41-50,"1,000,000-1,500,000 ",9885,EMAIL,Cash,Male,15,Business Travel,1,Executive Suite,HVC
+168,0,31,31-40,"300,000-500,000",63200,HARD COPY & EMAIL,Digital,Male,10,Self-trip,3,Family room,HVC
+169,0,54,51-60,"1,500,000-2,000,000 ",7038,HARD COPY,Digital,Male,12,Self-trip,1,Executive Suite,HVC
+170,1,40,31-40,"1,000,000-1,500,000 ",5421,EMAIL,Digital,Male,31,Business Travel,2,Executive Suite,HVC
+171,0,41,41-50,"1,000,000-1,500,000 ",4119,EMAIL,Digital,Male,35,Business Travel,1,Executive Suite,HVC
+172,0,39,31-40,"1,000,000-1,500,000 ",3728,HARD COPY,Digital,Male,31,Business Travel,1,Executive Suite,HVC
+173,1,39,31-40,"1,000,000-1,500,000 ",3071,HARD COPY,Digital,Male,31,Business Travel,1,Executive Suite,HVC
+174,1,45,41-50,"1,500,000-2,000,000 ",67500,EMAIL,Digital,Female,12,Self-trip,1,Executive Suite,HVC
+175,0,30,21-30,"300,000-500,000",2751,HARD COPY,Digital,Male,31,Business Travel,1,Executive Suite,HVC
+176,1,58,51-60,"2,000,000-2,500,000 ",9594,EMAIL,Cash,Male,18,Business Travel,1,Studio apartment,HVC
+177,0,37,31-40,"1,000,000-1,500,000 ",2949,HARD COPY,Digital,Male,31,Business Travel,2,Room,HVC
+178,0,18,below 20,"300,000-500,000",27392,EMAIL,Digital,Female,15,Self-trip,1,Family room,HVC
+179,0,40,31-40,"1,000,000-1,500,000 ",27000,EMAIL,Digital,Male,12,Self-trip,2,Family room,HVC
+180,0,39,31-40,"1,000,000-1,500,000 ",4217,EMAIL,Digital,Female,31,Business Travel,1,Room,HVC
+181,0,52,51-60,"1,500,000-2,000,000 ",3971,HARD COPY,Cash,Male,12,Self-trip,4,Executive Suite,HVC
+182,0,45,41-50,"1,500,000-2,000,000 ",67500,EMAIL,Digital,Male,12,Self-trip,1,Executive Suite,HVC
+183,1,46,41-50,"1,500,000-2,000,000 ",68500,EMAIL,Digital,Male,12,Self-trip,1,Executive Suite,HVC
+184,0,63,above 60,"300,000-500,000",42150,EMAIL,Digital,Female,12,Self-trip,1,Family room,HVC
+185,0,25,21-30,"300,000-500,000",10575,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+186,0,48,41-50,"1,500,000-2,000,000 ",7569,HARD COPY,Digital,Female,12,Self-trip,2,Executive Suite,HVC
+187,0,39,31-40,"1,000,000-1,500,000 ",7407,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+188,0,39,31-40,"1,000,000-1,500,000 ",2408,HARD COPY,Digital,Male,31,Business Travel,1,Room,HVC
+189,0,36,31-40,"1,000,000-1,500,000 ",7645,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+190,0,34,31-40,"300,000-500,000",3849,EMAIL,Digital,Female,31,Business Travel,2,Room,HVC
+191,1,53,51-60,"1,500,000-2,000,000 ",13515,HARD COPY,Digital,Male,24,Business Travel,1,Presidential Suite,HVC
+192,0,28,21-30,"300,000-500,000",27000,EMAIL,Digital,Female,12,Self-trip,2,Family room,HVC
+193,0,26,21-30,"300,000-500,000",7350,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+194,0,31,31-40,"300,000-500,000",7350,EMAIL,Digital,Male,12,Self-trip,1,Family room,HVC
+195,0,27,21-30,"300,000-500,000",5145,EMAIL,Digital,Female,12,Self-trip,1,Family room,HVC
+196,1,67,above 60,"300,000-500,000",26925,EMAIL,Digital,Male,12,Self-trip,1,Family room,HVC
+197,1,67,above 60,"300,000-500,000",26925,EMAIL,Digital,Male,12,Self-trip,1,Family room,HVC
+198,0,43,41-50,"1,000,000-1,500,000 ",4757,HARD COPY,Digital,Male,18,Self-trip,1,Family room,HVC
+199,0,21,21-30,"300,000-500,000",7350,HARD COPY,Digital,Male,12,Self-trip,2,Family room,HVC
+200,1,55,51-60,"2,000,000-2,500,000 ",7450,HARD COPY,Digital,Female,12,Self-trip,1,Executive Suite,HVC
+201,0,55,51-60,"2,000,000-2,500,000 ",20250,EMAIL,Cash,Male,12,Self-trip,3,Executive Suite,HVC
+202,0,36,31-40,"1,000,000-1,500,000 ",30375,HARD COPY,Cash,Male,12,Self-trip,1,Family room,HVC
+203,1,43,41-50,"1,000,000-1,500,000 ",33750,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+204,0,29,21-30,"300,000-500,000",20250,EMAIL,Digital,Female,12,Self-trip,2,Family room,HVC
+205,0,37,31-40,"1,000,000-1,500,000 ",4867,HARD COPY,Digital,Male,20,Self-trip,1,Family room,HVC
+206,0,18,below 20,"300,000-500,000",34540,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+207,0,24,21-30,"300,000-500,000",27248,EMAIL,Digital,Male,15,Self-trip,6,Family room,HVC
+208,1,59,51-60,"2,000,000-2,500,000 ",7650,EMAIL,Digital,Male,12,Self-trip,2,Executive Suite,HVC
+209,1,43,41-50,"1,000,000-1,500,000 ",3110,HARD COPY,Digital,Male,25,Business Travel,1,Room,HVC
+210,1,39,31-40,"1,000,000-1,500,000 ",14575,HARD COPY,Digital,Male,20,Business Travel,1,Room,HVC
+211,0,44,41-50,"1,000,000-1,500,000 ",7350,EMAIL,Digital,Male,12,Self-trip,3,Family room,HVC
+212,0,50,41-50,"1,500,000-2,000,000 ",9150,HARD COPY,Digital,Male,15,Self-trip,1,Executive Suite,HVC
+213,1,49,41-50,"1,500,000-2,000,000 ",9200,EMAIL,Digital,Male,15,Self-trip,9,Executive Suite,HVC
+214,0,48,41-50,"1,500,000-2,000,000 ",18571,HARD COPY,Cash,Male,15,Self-trip,1,Executive Suite,HVC
+215,1,39,31-40,"1,000,000-1,500,000 ",9400,EMAIL,Digital,Male,15,Self-trip,1,Family room,HVC
+216,0,36,31-40,"1,000,000-1,500,000 ",9912,EMAIL,Digital,Male,15,Self-trip,1,Family room,HVC
+217,0,34,31-40,"300,000-500,000",17996,HARD COPY,Cash,Male,21,Self-trip,1,Family room,HVC
+218,1,52,51-60,"1,500,000-2,000,000 ",34250,HARD COPY,Digital,Female,12,Self-trip,5,Executive Suite,HVC
+219,0,24,21-30,"250,000-300,000",14075,EMAIL,Digital,Male,12,Self-trip,1,Family room,HVC
+220,1,61,above 60,"300,000-500,000",14400,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+221,0,32,31-40,"300,000-500,000",14200,EMAIL,Cash,Female,12,Self-trip,2,Family room,HVC
+222,0,34,31-40,"300,000-500,000",30030,HARD COPY,Digital,Male,30,Self-trip,1,Family room,HVC
+223,0,41,41-50,"1,000,000-1,500,000 ",13541,EMAIL,Digital,Female,15,Self-trip,3,Family room,HVC
+224,0,37,31-40,"1,000,000-1,500,000 ",13541,HARD COPY,Digital,Female,15,Self-trip,6,Family room,HVC
+225,1,50,41-50,"1,500,000-2,000,000 ",7450,EMAIL,Digital,Male,12,Self-trip,1,Executive Suite,HVC
+226,0,33,31-40,"300,000-500,000",9037,HARD COPY,Digital,Male,21,Self-trip,1,Family room,HVC
+227,0,33,31-40,"300,000-500,000",7350,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+228,0,42,41-50,"1,000,000-1,500,000 ",19770,EMAIL,Digital,Male,15,Business Travel,1,Room,HVC
+229,1,52,51-60,"1,500,000-2,000,000 ",9387,EMAIL,Digital,Male,15,Business Travel,1,Presidential Suite,HVC
+230,1,40,31-40,"1,000,000-1,500,000 ",3844,HARD COPY & EMAIL,Digital,Male,15,Business Travel,1,Room,HVC
+231,0,34,31-40,"300,000-500,000",2618,EMAIL,Cash,Male,15,Business Travel,3,Room,HVC
+232,0,21,21-30,"300,000-500,000",7350,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+233,0,24,21-30,"300,000-500,000",7350,HARD COPY,Digital,Male,12,Self-trip,4,Family room,HVC
+234,0,20,below 20,"300,000-500,000",7522,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+235,0,22,21-30,"300,000-500,000",7350,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+236,0,33,31-40,"250,000-300,000",7608,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+237,1,43,41-50,"1,000,000-1,500,000 ",4245,EMAIL,Digital,Male,20,Business Travel,4,Room,HVC
+238,1,62,above 60,"300,000-500,000",12073,HARD COPY,Digital,Male,14,Business Travel,1,Room,HVC
+239,1,50,41-50,"1,500,000-2,000,000 ",10163,HARD COPY,Digital,Female,26,Business Travel,1,Presidential Suite,HVC
+240,1,56,51-60,"2,000,000-2,500,000 ",5000,HARD COPY,Digital,Male,10,Business Travel,1,Studio apartment,HVC
+241,1,37,31-40,"1,000,000-1,500,000 ",4326,EMAIL,Cash,Male,15,Self-trip,3,Family room,HVC
+242,1,46,41-50,"1,500,000-2,000,000 ",12540,EMAIL,Cash,Male,20,Business Travel,1,Presidential Suite,HVC
+243,0,51,51-60,"1,500,000-2,000,000 ",7350,HARD COPY,Digital,Female,12,Self-trip,1,Executive Suite,HVC
+244,0,44,41-50,"1,000,000-1,500,000 ",7522,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+245,0,49,41-50,"1,500,000-2,000,000 ",7350,HARD COPY,Digital,Male,12,Self-trip,5,Executive Suite,HVC
+246,0,19,below 20,"300,000-500,000",7350,EMAIL,Digital,Female,12,Self-trip,1,Family room,HVC
+247,1,46,41-50,"1,500,000-2,000,000 ",9219,HARD COPY,Digital,Female,21,Self-trip,1,Executive Suite,HVC
+248,0,24,21-30,"300,000-500,000",9012,HARD COPY,Digital,Male,21,Self-trip,2,Family room,HVC
+249,1,40,31-40,"1,000,000-1,500,000 ",7350,EMAIL,Digital,Male,12,Self-trip,1,Family room,HVC
+250,0,34,31-40,"300,000-500,000",3084,HARD COPY,Cash,Female,12,Self-trip,1,Family room,HVC
+251,0,26,21-30,"300,000-500,000",18261,EMAIL,Digital,Female,15,Self-trip,1,Family room,HVC
+252,0,36,31-40,"1,000,000-1,500,000 ",18261,HARD COPY,Digital,Male,15,Self-trip,1,Family room,HVC
+253,0,27,21-30,"300,000-500,000",13800,HARD COPY,Digital,Male,12,Self-trip,2,Family room,HVC
+254,0,36,31-40,"1,000,000-1,500,000 ",13400,HARD COPY,Digital,Female,10,Self-trip,1,Family room,HVC
+255,1,37,31-40,"1,000,000-1,500,000 ",4052,HARD COPY,Cash,Female,31,Business Travel,2,Room,HVC
+256,0,22,21-30,"300,000-500,000",9150,HARD COPY,Digital,Male,15,Self-trip,1,Family room,HVC
+257,0,37,31-40,"1,000,000-1,500,000 ",9450.38,EMAIL,Digital,Male,15,Self-trip,5,Family room,HVC
+258,0,27,21-30,"300,000-500,000",3796,HARD COPY,Cash,Female,10,Self-trip,1,Family room,HVC
+259,1,44,41-50,"1,000,000-1,500,000 ",9350,HARD COPY,Cash,Male,15,Self-trip,3,Family room,HVC
+260,0,35,31-40,"1,000,000-1,500,000 ",4396,EMAIL,Cash,Male,15,Self-trip,1,Family room,HVC
+261,0,19,below 20,"300,000-500,000",9440,HARD COPY,Cash,Male,15,Self-trip,3,Family room,HVC
+262,0,22,21-30,"300,000-500,000",2379,HARD COPY & EMAIL,Digital,Female,15,Self-trip,4,Family room,HVC
+263,0,24,21-30,"300,000-500,000",5401,EMAIL,Cash,Female,21,Self-trip,2,Family room,HVC
+264,0,39,31-40,"1,000,000-1,500,000 ",5401,EMAIL,Cash,Female,21,Self-trip,2,Family room,HVC
+265,0,29,21-30,"300,000-500,000",2944,EMAIL,Digital,Male,31,Business Travel,2,Room,HVC
+266,0,31,31-40,"300,000-500,000",2530,HARD COPY,Digital,Male,31,Business Travel,1,Room,HVC
+267,0,34,31-40,"300,000-500,000",2118,EMAIL,Cash,Male,15,Business Travel,1,Room,HVC
+268,0,34,31-40,"300,000-500,000",1708,EMAIL,Cash,Male,31,Business Travel,1,Room,HVC
+269,0,35,31-40,"1,000,000-1,500,000 ",3422,EMAIL,Digital,Male,15,Business Travel,1,Room,HVC
+270,1,38,31-40,"1,000,000-1,500,000 ",3668,EMAIL,Digital,Male,15,Business Travel,1,Room,HVC
+271,0,38,31-40,"1,000,000-1,500,000 ",3596,EMAIL,Digital,Male,15,Business Travel,2,Room,HVC
+272,0,41,41-50,"1,000,000-1,500,000 ",3844,EMAIL,Cash,Male,15,Business Travel,1,Room,HVC
+273,1,44,41-50,"1,000,000-1,500,000 ",2155,EMAIL,Digital,Female,15,Business Travel,1,Room,HVC
+274,1,35,31-40,"1,000,000-1,500,000 ",3422,EMAIL,Cash,Male,15,Business Travel,3,Room,HVC
+275,1,34,31-40,"300,000-500,000",7762,HARD COPY,Digital,Female,15,Self-trip,1,Family room,HVC
+276,1,43,41-50,"1,000,000-1,500,000 ",50364,EMAIL,Digital,Male,9,Self-trip,1,Family room,HVC
+277,1,43,41-50,"1,000,000-1,500,000 ",50364,EMAIL,Digital,Male,9,Self-trip,1,Family room,HVC
+278,1,38,31-40,"1,000,000-1,500,000 ",9150,EMAIL,Cash,Female,15,Self-trip,7,Family room,HVC
+279,1,46,41-50,"1,500,000-2,000,000 ",2643,HARD COPY,Digital,Male,31,Business Travel,1,Presidential Suite,HVC
+280,0,24,21-30,"300,000-500,000",9835,HARD COPY,Cash,Male,15,Self-trip,3,Family room,HVC
+281,0,34,31-40,"300,000-500,000",2379,EMAIL,Cash,Female,15,Self-trip,3,Family room,HVC
+282,0,24,21-30,"300,000-500,000",9762,HARD COPY,Digital,Male,15,Self-trip,3,Family room,HVC
+283,0,53,51-60,"1,500,000-2,000,000 ",14700,EMAIL,Digital,Male,10,Self-trip,1,Executive Suite,HVC
+284,0,21,21-30,"225,000-250,000",17700,EMAIL,Digital,Female,15,Self-trip,2,Family room,HVC
+285,1,57,51-60,"2,000,000-2,500,000 ",8854,EMAIL,Digital,Male,19,Business Travel,1,Studio apartment,HVC
+286,0,31,31-40,"300,000-500,000",9150,EMAIL,Digital,Male,15,Self-trip,2,Family room,HVC
+287,0,52,51-60,"1,500,000-2,000,000 ",5966,HARD COPY,Digital,Male,15,Business Travel,1,Presidential Suite,HVC
+288,0,23,21-30,"300,000-500,000",2379,HARD COPY,Digital,Male,15,Self-trip,1,Family room,HVC
+289,1,56,51-60,"2,000,000-2,500,000 ",9948,EMAIL,Digital,Female,15,Self-trip,3,Executive Suite,HVC
+290,0,31,31-40,"250,000-300,000",2852,HARD COPY & EMAIL,Cash,Male,15,Self-trip,7,Family room,HVC
+291,1,45,41-50,"1,500,000-2,000,000 ",26550,EMAIL,Digital,Female,15,Self-trip,1,Executive Suite,HVC
+292,1,33,31-40,"300,000-500,000",100000,HARD COPY,Cash,Female,12,Business Travel,1,Room,HVC
+293,0,23,21-30,"300,000-500,000",7350,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+294,0,28,21-30,"300,000-500,000",13800,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+295,0,27,21-30,"300,000-500,000",7786,EMAIL,Digital,Female,12,Self-trip,1,Family room,HVC
+296,0,49,41-50,"1,500,000-2,000,000 ",27392,HARD COPY,Digital,Male,15,Self-trip,1,Executive Suite,HVC
+297,0,56,51-60,"2,000,000-2,500,000 ",7786,HARD COPY,Digital,Male,12,Self-trip,2,Executive Suite,HVC
+298,0,64,above 60,"300,000-500,000",37750,EMAIL,Digital,Female,12,Self-trip,1,Family room,HVC
+299,1,71,above 60,"300,000-500,000",9510,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+300,1,51,51-60,"1,500,000-2,000,000 ",14000,EMAIL,Digital,Female,12,Self-trip,3,Executive Suite,HVC
+301,1,54,51-60,"1,500,000-2,000,000 ",6570,EMAIL,Digital,Male,15,Business Travel,1,Presidential Suite,HVC
+302,1,45,41-50,"1,500,000-2,000,000 ",4386,EMAIL,Digital,Male,15,Business Travel,1,Presidential Suite,HVC
+303,1,40,31-40,"1,000,000-1,500,000 ",2869,EMAIL,Cash,Male,15,Business Travel,1,Room,HVC
+304,0,36,31-40,"1,000,000-1,500,000 ",3482,EMAIL,Digital,Male,15,Business Travel,2,Room,HVC
+305,1,56,51-60,"2,000,000-2,500,000 ",14540,EMAIL,Digital,Female,15,Business Travel,4,Studio apartment,HVC
+306,0,40,31-40,"1,000,000-1,500,000 ",3825,EMAIL,Digital,Male,15,Business Travel,1,Room,HVC
+307,0,42,41-50,"1,000,000-1,500,000 ",3954,EMAIL,Cash,Female,15,Business Travel,3,Room,HVC
+308,0,42,41-50,"1,000,000-1,500,000 ",3921,EMAIL,Digital,Male,15,Business Travel,1,Room,HVC
+309,0,37,31-40,"1,000,000-1,500,000 ",7068,EMAIL,Cash,Male,15,Business Travel,1,Room,HVC
+310,1,41,41-50,"1,000,000-1,500,000 ",9610,EMAIL,Cash,Male,15,Business Travel,2,Room,HVC
+311,1,42,41-50,"1,000,000-1,500,000 ",2017,EMAIL,Cash,Male,15,Business Travel,3,Room,HVC
+312,1,41,41-50,"1,000,000-1,500,000 ",3844,HARD COPY,Digital,Male,15,Business Travel,2,Room,HVC
+313,0,35,31-40,"1,000,000-1,500,000 ",5133,EMAIL,Cash,Male,15,Business Travel,2,Room,HVC
+314,0,23,21-30,"300,000-500,000",3749,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+315,0,56,51-60,"2,000,000-2,500,000 ",9012,EMAIL,Digital,Male,21,Self-trip,2,Executive Suite,HVC
+316,0,26,21-30,"300,000-500,000",13800,HARD COPY,Digital,Female,12,Self-trip,3,Family room,HVC
+317,0,60,51-60,"2,000,000-2,500,000 ",19442,HARD COPY,Digital,Female,17,Business Travel,1,Studio apartment,HVC
+318,0,20,below 20,"300,000-500,000",7350,HARD COPY,Digital,Female,12,Self-trip,2,Family room,HVC
+319,0,35,31-40,"1,000,000-1,500,000 ",16940,EMAIL,Digital,Male,15,Business Travel,4,Room,HVC
+320,1,37,31-40,"1,000,000-1,500,000 ",3482,EMAIL,Cash,Male,15,Business Travel,6,Room,HVC
+321,1,53,51-60,"1,500,000-2,000,000 ",6258,EMAIL,Digital,Male,15,Business Travel,3,Presidential Suite,HVC
+322,1,41,41-50,"1,000,000-1,500,000 ",7688,EMAIL,Digital,Male,15,Business Travel,1,Room,HVC
+323,0,37,31-40,"1,000,000-1,500,000 ",3534,EMAIL,Digital,Male,15,Business Travel,2,Room,HVC
+324,0,37,31-40,"1,000,000-1,500,000 ",7068,EMAIL,Digital,Male,15,Business Travel,1,Room,HVC
+325,0,35,31-40,"1,000,000-1,500,000 ",8470,EMAIL,Cash,Male,15,Business Travel,2,Room,HVC
+326,1,39,31-40,"1,000,000-1,500,000 ",9170,EMAIL,Digital,Female,15,Business Travel,1,Room,HVC
+327,0,39,31-40,"1,000,000-1,500,000 ",3668,EMAIL,Cash,Male,15,Business Travel,3,Room,HVC
+328,1,45,41-50,"1,500,000-2,000,000 ",6339,EMAIL,Digital,Male,15,Business Travel,1,Presidential Suite,HVC
+329,1,49,41-50,"1,500,000-2,000,000 ",53025,EMAIL,Digital,Male,22,Self-trip,3,Executive Suite,HVC
+330,0,33,31-40,"300,000-500,000",3354,HARD COPY,Digital,Female,15,Business Travel,1,Room,HVC
+331,0,35,31-40,"1,000,000-1,500,000 ",5133,EMAIL,Cash,Male,15,Business Travel,4,Room,HVC
+332,0,36,31-40,"1,000,000-1,500,000 ",21954.05,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+333,0,22,21-30,"300,000-500,000",33750,EMAIL,Digital,Male,12,Self-trip,3,Family room,HVC
+334,0,41,41-50,"1,000,000-1,500,000 ",5766,EMAIL,Cash,Male,15,Business Travel,2,Room,HVC
+335,0,35,31-40,"1,000,000-1,500,000 ",17110,EMAIL,Cash,Male,15,Business Travel,2,Room,HVC
+336,0,36,31-40,"1,000,000-1,500,000 ",3482,EMAIL,Cash,Male,15,Business Travel,1,Room,HVC
+337,0,38,31-40,"1,000,000-1,500,000 ",3534,EMAIL,Digital,Male,15,Business Travel,2,Room,HVC
+338,1,41,41-50,"1,000,000-1,500,000 ",9610,EMAIL,Cash,Female,15,Business Travel,2,Room,HVC
+339,0,38,31-40,"1,000,000-1,500,000 ",3596,EMAIL,Digital,Male,15,Business Travel,3,Room,HVC
+340,0,43,41-50,"1,000,000-1,500,000 ",3954,HARD COPY,Digital,Male,15,Business Travel,1,Room,HVC
+341,0,40,31-40,"1,000,000-1,500,000 ",1913,EMAIL,Cash,Male,15,Business Travel,1,Room,HVC
+342,1,49,41-50,"1,500,000-2,000,000 ",5192,EMAIL,Cash,Male,15,Business Travel,2,Presidential Suite,HVC
+343,0,41,41-50,"1,000,000-1,500,000 ",3844,EMAIL,Cash,Male,15,Business Travel,2,Room,HVC
+344,1,37,31-40,"1,000,000-1,500,000 ",7550,EMAIL,Digital,Female,12,Self-trip,1,Family room,HVC
+345,1,66,above 60,"300,000-500,000",18000,EMAIL,Digital,Female,15,Self-trip,4,Family room,HVC
+346,0,38,31-40,"1,000,000-1,500,000 ",18100,EMAIL,Cash,Male,15,Self-trip,5,Family room,HVC
+347,1,65,above 60,"300,000-500,000",4845,EMAIL,Digital,Male,15,Self-trip,1,Family room,HVC
+348,1,63,above 60,"300,000-500,000",9500,EMAIL,Digital,Male,15,Self-trip,1,Family room,HVC
+349,1,49,41-50,"1,500,000-2,000,000 ",9400,EMAIL,Digital,Male,15,Self-trip,1,Executive Suite,HVC
+350,1,55,51-60,"2,000,000-2,500,000 ",9400,EMAIL,Digital,Male,15,Self-trip,1,Executive Suite,HVC
+351,0,47,41-50,"1,500,000-2,000,000 ",22568,EMAIL,Cash,Male,15,Self-trip,2,Executive Suite,HVC
+352,0,30,21-30,"250,000-300,000",43500,EMAIL,Digital,Male,15,Self-trip,5,Family room,HVC
+353,1,67,above 60,"300,000-500,000",9428,EMAIL,Digital,Male,15,Self-trip,3,Family room,HVC
+354,0,21,21-30,"300,000-500,000",13800,EMAIL,Digital,Male,12,Self-trip,2,Family room,HVC
+355,0,24,21-30,"300,000-500,000",101250,EMAIL,Digital,Female,12,Self-trip,2,Family room,HVC
+356,0,20,below 20,"250,000-300,000",13800,EMAIL,Digital,Male,12,Self-trip,3,Family room,HVC
+357,0,21,21-30,"300,000-500,000",13800,EMAIL,Digital,Male,12,Self-trip,3,Family room,HVC
+358,0,60,51-60,"2,000,000-2,500,000 ",27000,EMAIL,Digital,Male,12,Self-trip,2,Executive Suite,HVC
+359,0,60,51-60,"2,000,000-2,500,000 ",7350,EMAIL,Digital,Male,12,Self-trip,2,Executive Suite,HVC
+360,0,45,41-50,"1,500,000-2,000,000 ",4790,EMAIL,Digital,Male,15,Self-trip,4,Executive Suite,HVC
+361,0,40,31-40,"1,000,000-1,500,000 ",7350,EMAIL,Digital,Male,12,Self-trip,2,Family room,HVC
+362,0,37,31-40,"1,000,000-1,500,000 ",7350,EMAIL,Digital,Male,12,Self-trip,1,Family room,HVC
+363,0,38,31-40,"1,000,000-1,500,000 ",5968,EMAIL,Digital,Male,33,Self-trip,1,Family room,HVC
+364,0,32,31-40,"300,000-500,000",7038,EMAIL,Digital,Male,12,Self-trip,1,Family room,HVC
+365,0,18,below 20,"300,000-500,000",14618,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+366,0,43,41-50,"1,000,000-1,500,000 ",10570,EMAIL,Digital,Male,12,Self-trip,5,Family room,HVC
+367,0,40,31-40,"1,000,000-1,500,000 ",27800,EMAIL,Digital,Male,12,Self-trip,2,Family room,HVC
+368,0,21,21-30,"300,000-500,000",7203,EMAIL,Digital,Male,12,Self-trip,6,Family room,HVC
+369,1,45,41-50,"1,500,000-2,000,000 ",5107,HARD COPY,Digital,Male,15,Business Travel,1,Presidential Suite,HVC
+370,0,42,41-50,"1,000,000-1,500,000 ",4909,EMAIL,Cash,Male,12,Self-trip,6,Family room,HVC
+371,1,41,41-50,"1,000,000-1,500,000 ",55600,EMAIL,Digital,Male,12,Self-trip,1,Family room,HVC
+372,1,41,41-50,"1,000,000-1,500,000 ",21267,EMAIL,Cash,Male,12,Self-trip,1,Family room,HVC
+373,0,35,31-40,"1,000,000-1,500,000 ",33750,EMAIL,Digital,Male,12,Self-trip,2,Family room,HVC
+374,0,34,31-40,"300,000-500,000",17723,EMAIL,Digital,Male,12,Self-trip,4,Family room,HVC
+375,0,50,41-50,"1,500,000-2,000,000 ",33750,HARD COPY,Cash,Male,12,Self-trip,1,Executive Suite,HVC
+376,0,39,31-40,"1,000,000-1,500,000 ",8905,EMAIL,Cash,Male,12,Self-trip,6,Family room,HVC
+377,0,40,31-40,"1,000,000-1,500,000 ",6011,HARD COPY,Digital,Male,31,Self-trip,1,Family room,HVC
+378,1,57,51-60,"2,000,000-2,500,000 ",14400,EMAIL,Digital,Female,12,Self-trip,1,Executive Suite,HVC
+379,1,65,above 60,"300,000-500,000",15400,EMAIL,Digital,Male,12,Self-trip,2,Family room,HVC
+380,0,20,below 20,"300,000-500,000",17700,HARD COPY,Digital,Female,15,Self-trip,1,Family room,HVC
+381,1,57,51-60,"2,000,000-2,500,000 ",14400,EMAIL,Digital,Female,12,Self-trip,2,Executive Suite,HVC
+382,0,24,21-30,"300,000-500,000",337500,EMAIL,Digital,Female,12,Self-trip,2,Family room,HVC
+383,0,21,21-30,"300,000-500,000",26550,HARD COPY,Digital,Male,15,Self-trip,1,Family room,HVC
+384,0,33,31-40,"300,000-500,000",2431,EMAIL,Cash,Male,15,Self-trip,2,Family room,HVC
+385,0,39,31-40,"1,000,000-1,500,000 ",4216,HARD COPY,Cash,Male,31,Business Travel,1,Room,HVC
+386,0,25,21-30,"300,000-500,000",81000,EMAIL,Cash,Female,12,Self-trip,1,Family room,HVC
+387,0,35,31-40,"1,000,000-1,500,000 ",81000,HARD COPY,Cash,Male,12,Self-trip,1,Family room,HVC
+388,1,59,51-60,"2,000,000-2,500,000 ",6590,HARD COPY,Digital,Male,12,Self-trip,1,Executive Suite,HVC
+389,0,34,31-40,"300,000-500,000",3675,HARD COPY,Digital,Female,31,Self-trip,2,Family room,HVC
+390,1,55,51-60,"2,000,000-2,500,000 ",3112,EMAIL,Cash,Male,12,Self-trip,1,Executive Suite,HVC
+391,1,61,above 60,"300,000-500,000",8780,EMAIL,Digital,Female,12,Self-trip,1,Family room,HVC
+392,0,29,21-30,"300,000-500,000",33750,EMAIL,Digital,Male,12,Self-trip,2,Family room,HVC
+393,0,29,21-30,"300,000-500,000",33750,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+394,0,32,31-40,"300,000-500,000",33750,EMAIL,Digital,Male,12,Self-trip,2,Family room,HVC
+395,0,25,21-30,"250,000-300,000",33750,EMAIL,Digital,Male,12,Self-trip,1,Family room,HVC
+396,0,24,21-30,"300,000-500,000",33750,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+397,0,28,21-30,"300,000-500,000",33750,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+398,0,24,21-30,"300,000-500,000",9012,HARD COPY,Digital,Female,21,Self-trip,1,Family room,HVC
+399,0,22,21-30,"250,000-300,000",10928,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+400,0,32,31-40,"300,000-500,000",7350,EMAIL,Digital,Male,12,Self-trip,2,Family room,HVC
+401,0,34,31-40,"300,000-500,000",7350,EMAIL,Digital,Male,12,Self-trip,2,Family room,HVC
+402,1,50,41-50,"1,500,000-2,000,000 ",3902,HARD COPY,Digital,Female,12,Self-trip,1,Executive Suite,HVC
+403,0,26,21-30,"300,000-500,000",10575,EMAIL,Digital,Female,12,Self-trip,1,Family room,HVC
+404,0,53,51-60,"1,500,000-2,000,000 ",13260,HARD COPY,Digital,Female,10,Self-trip,1,Executive Suite,HVC
+405,1,47,41-50,"1,500,000-2,000,000 ",68500,EMAIL,Cash,Female,12,Self-trip,2,Executive Suite,HVC
+406,0,52,51-60,"1,500,000-2,000,000 ",54800,EMAIL,Cash,Female,12,Self-trip,1,Executive Suite,HVC
+407,0,27,21-30,"300,000-500,000",34540,EMAIL,Cash,Male,12,Self-trip,2,Family room,HVC
+408,1,42,41-50,"1,000,000-1,500,000 ",7350,EMAIL,Digital,Male,12,Self-trip,1,Family room,HVC
+409,1,54,51-60,"1,500,000-2,000,000 ",14822,HARD COPY,Digital,Male,20,Self-trip,1,Executive Suite,HVC
+410,0,22,21-30,"300,000-500,000",7350,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+411,0,20,below 20,"250,000-300,000",7350,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+412,1,35,31-40,"1,000,000-1,500,000 ",20655,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+413,1,46,41-50,"1,500,000-2,000,000 ",3440,EMAIL,Cash,Male,20,Business Travel,4,Presidential Suite,HVC
+414,0,26,21-30,"300,000-500,000",13800,HARD COPY,Digital,Male,12,Self-trip,2,Family room,HVC
+415,0,45,41-50,"1,500,000-2,000,000 ",7350,EMAIL,Cash,Male,12,Self-trip,5,Executive Suite,HVC
+416,0,21,21-30,"300,000-500,000",10248,EMAIL,Digital,Male,15,Self-trip,5,Family room,HVC
+417,1,33,31-40,"300,000-500,000",9150,HARD COPY,Cash,Male,15,Self-trip,2,Family room,HVC
+418,0,48,41-50,"1,500,000-2,000,000 ",9150,EMAIL,Cash,Male,15,Self-trip,1,Executive Suite,HVC
+419,0,31,31-40,"300,000-500,000",4667,HARD COPY,Digital,Male,15,Self-trip,5,Family room,HVC
+420,0,23,21-30,"300,000-500,000",26550,HARD COPY,Digital,Female,15,Self-trip,1,Family room,HVC
+421,0,40,31-40,"1,000,000-1,500,000 ",41783,EMAIL,Digital,Male,12,Self-trip,3,Family room,HVC
+422,1,54,51-60,"1,500,000-2,000,000 ",26700,HARD COPY,Digital,Male,15,Self-trip,1,Executive Suite,HVC
+423,0,58,51-60,"2,000,000-2,500,000 ",56548,HARD COPY,Digital,Female,15,Self-trip,1,Executive Suite,HVC
+424,0,30,21-30,"300,000-500,000",5047,HARD COPY,Digital,Female,20,Self-trip,1,Family room,HVC
+425,0,19,below 20,"300,000-500,000",4839,HARD COPY,Digital,Female,21,Self-trip,2,Family room,HVC
+426,0,48,41-50,"1,500,000-2,000,000 ",9604,EMAIL,Digital,Male,21,Self-trip,1,Executive Suite,HVC
+427,0,35,31-40,"1,000,000-1,500,000 ",4769,EMAIL,Digital,Male,15,Self-trip,2,Family room,HVC
+428,1,43,41-50,"1,000,000-1,500,000 ",9314,EMAIL,Digital,Male,21,Self-trip,1,Family room,HVC
+429,0,55,51-60,"2,000,000-2,500,000 ",14700,HARD COPY,Digital,Female,10,Self-trip,1,Executive Suite,HVC
+430,0,39,31-40,"1,000,000-1,500,000 ",34540,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+431,1,46,41-50,"1,500,000-2,000,000 ",101250,EMAIL,Cash,Male,12,Self-trip,6,Executive Suite,HVC
+432,1,44,41-50,"1,000,000-1,500,000 ",20250,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+433,1,44,41-50,"1,000,000-1,500,000 ",6220,HARD COPY,Digital,Male,25,Business Travel,1,Room,HVC
+434,1,62,above 60,"300,000-500,000",14967,HARD COPY,Cash,Male,12,Self-trip,1,Family room,HVC
+435,0,32,31-40,"300,000-500,000",9150,EMAIL,Digital,Female,15,Self-trip,2,Family room,HVC
+436,0,31,31-40,"300,000-500,000",9600,HARD COPY,Digital,Female,15,Self-trip,1,Family room,HVC
+437,0,49,41-50,"1,500,000-2,000,000 ",9150,HARD COPY,Digital,Male,15,Self-trip,2,Executive Suite,HVC
+438,0,41,41-50,"1,000,000-1,500,000 ",9391,EMAIL,Cash,Female,15,Self-trip,3,Family room,HVC
+439,0,23,21-30,"250,000-300,000",44644,HARD COPY,Digital,Female,15,Self-trip,1,Family room,HVC
+440,1,47,41-50,"1,500,000-2,000,000 ",128000,EMAIL,Digital,Male,1,Business Travel,1,Presidential Suite,HVC
+441,0,33,31-40,"300,000-500,000",20850,EMAIL,Digital,Male,12,Self-trip,9,Family room,HVC
+442,0,47,41-50,"1,500,000-2,000,000 ",35231,EMAIL,Cash,Female,12,Self-trip,4,Executive Suite,HVC
+443,1,41,41-50,"1,000,000-1,500,000 ",16263,EMAIL,Cash,Male,12,Self-trip,2,Family room,HVC
+444,1,42,41-50,"1,000,000-1,500,000 ",3068,EMAIL,Cash,Male,12,Self-trip,1,Family room,HVC
+445,1,49,41-50,"1,500,000-2,000,000 ",11587,EMAIL,Digital,Male,27,Business Travel,3,Presidential Suite,HVC
+446,0,56,51-60,"2,000,000-2,500,000 ",3800,EMAIL,Digital,Male,12,Self-trip,1,Executive Suite,HVC
+447,0,57,51-60,"2,000,000-2,500,000 ",14000,HARD COPY,Digital,Female,10,Self-trip,1,Executive Suite,HVC
+448,1,45,41-50,"1,500,000-2,000,000 ",9150,HARD COPY,Digital,Female,15,Self-trip,1,Executive Suite,HVC
+449,0,59,51-60,"2,000,000-2,500,000 ",67500,HARD COPY,Digital,Male,12,Self-trip,1,Executive Suite,HVC
+450,0,30,21-30,"300,000-500,000",7350,EMAIL,Digital,Male,12,Self-trip,3,Family room,HVC
+451,0,42,41-50,"1,000,000-1,500,000 ",3692,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+452,0,49,41-50,"1,500,000-2,000,000 ",3672,EMAIL,Cash,Female,10,Self-trip,4,Executive Suite,HVC
+453,1,42,41-50,"1,000,000-1,500,000 ",7277,EMAIL,Cash,Male,20,Self-trip,1,Family room,HVC
+454,0,30,21-30,"300,000-500,000",7350,EMAIL,Digital,Female,12,Self-trip,3,Family room,HVC
+455,1,38,31-40,"1,000,000-1,500,000 ",7350,EMAIL,Cash,Female,12,Self-trip,2,Family room,HVC
+456,0,35,31-40,"1,000,000-1,500,000 ",9756,EMAIL,Digital,Male,30,Self-trip,1,Family room,HVC
+457,1,44,41-50,"1,000,000-1,500,000 ",7350,EMAIL,Digital,Male,12,Self-trip,2,Family room,HVC
+458,0,40,31-40,"1,000,000-1,500,000 ",7350,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+459,1,44,41-50,"1,000,000-1,500,000 ",4774,HARD COPY,Digital,Male,21,Self-trip,1,Family room,HVC
+460,0,42,41-50,"1,000,000-1,500,000 ",13800,EMAIL,Cash,Male,12,Self-trip,1,Family room,HVC
+461,1,43,41-50,"1,000,000-1,500,000 ",20410,EMAIL,Cash,Male,15,Business Travel,4,Room,HVC
+462,0,25,21-30,"300,000-500,000",11628,EMAIL,Digital,Male,30,Self-trip,1,Family room,HVC
+463,1,51,51-60,"1,500,000-2,000,000 ",10669,HARD COPY,Digital,Male,15,Business Travel,1,Presidential Suite,HVC
+464,0,52,51-60,"1,500,000-2,000,000 ",3043,EMAIL,Digital,Male,15,Business Travel,1,Presidential Suite,HVC
+465,1,35,31-40,"1,000,000-1,500,000 ",7650,EMAIL,Digital,Male,31,Tourist-trip,2,Suite,HVC
+466,1,64,above 60,"225,000-250,000",35577,EMAIL,Digital,Male,10,Self-trip,1,Family room,HVC
+467,1,43,41-50,"1,000,000-1,500,000 ",3110,HARD COPY,Digital,Male,25,Business Travel,1,Room,HVC
+468,0,60,51-60,"2,000,000-2,500,000 ",9150,HARD COPY,Digital,Male,15,Self-trip,1,Executive Suite,HVC
+469,1,49,41-50,"1,500,000-2,000,000 ",20550,EMAIL,Digital,Female,12,Self-trip,2,Executive Suite,HVC
+470,1,55,51-60,"2,000,000-2,500,000 ",34250,EMAIL,Digital,Female,12,Self-trip,1,Executive Suite,HVC
+471,0,32,31-40,"300,000-500,000",33750,EMAIL,Digital,Female,12,Self-trip,1,Family room,HVC
+472,0,56,51-60,"2,000,000-2,500,000 ",35751,EMAIL,Digital,Female,12,Self-trip,1,Executive Suite,HVC
+473,0,51,51-60,"1,500,000-2,000,000 ",3782,EMAIL,Cash,Male,12,Self-trip,1,Executive Suite,HVC
+474,0,21,21-30,"300,000-500,000",3039,EMAIL,Cash,Female,12,Self-trip,2,Family room,HVC
+475,1,28,21-30,"300,000-500,000",96000,HARD COPY,Digital,Male,12,Business Travel,1,Room,HVC
+476,1,37,31-40,"1,000,000-1,500,000 ",3534,EMAIL,Cash,Male,15,Business Travel,1,Room,HVC
+477,0,38,31-40,"1,000,000-1,500,000 ",4585,EMAIL,Digital,Male,15,Business Travel,3,Room,HVC
+478,1,48,41-50,"1,500,000-2,000,000 ",2648,EMAIL,Digital,Male,15,Business Travel,1,Presidential Suite,HVC
+479,1,38,31-40,"1,000,000-1,500,000 ",9170,EMAIL,Digital,Male,15,Business Travel,2,Room,HVC
+480,0,38,31-40,"1,000,000-1,500,000 ",9170,EMAIL,Cash,Male,15,Business Travel,1,Room,HVC
+481,1,37,31-40,"1,000,000-1,500,000 ",3534,EMAIL,Cash,Male,15,Business Travel,1,Room,HVC
+482,1,46,41-50,"1,500,000-2,000,000 ",7134,EMAIL,Digital,Female,15,Business Travel,2,Presidential Suite,HVC
+483,0,31,31-40,"300,000-500,000",3388,HARD COPY,Digital,Female,15,Business Travel,1,Room,HVC
+484,1,48,41-50,"1,500,000-2,000,000 ",5192,EMAIL,Digital,Male,15,Business Travel,2,Presidential Suite,HVC
+485,1,38,31-40,"1,000,000-1,500,000 ",3668,EMAIL,Cash,Male,15,Business Travel,1,Room,HVC
+486,0,18,below 20,"250,000-300,000",14075,EMAIL,Digital,Female,12,Self-trip,2,Family room,HVC
+487,0,40,31-40,"1,000,000-1,500,000 ",9225,EMAIL,Cash,Male,20,Business Travel,1,Room,HVC
+488,0,23,21-30,"300,000-500,000",34540,HARD COPY & EMAIL,Digital,Female,12,Self-trip,2,Family room,HVC
+489,0,39,31-40,"1,000,000-1,500,000 ",33750,HARD COPY & EMAIL,Digital,Male,12,Self-trip,1,Family room,HVC
+490,1,38,31-40,"1,000,000-1,500,000 ",26195,EMAIL,Digital,Male,10,Self-trip,2,Family room,HVC
+491,0,38,31-40,"1,000,000-1,500,000 ",3596,EMAIL,Digital,Male,15,Business Travel,1,Room,HVC
+492,1,42,41-50,"1,000,000-1,500,000 ",4082,EMAIL,Cash,Male,15,Business Travel,3,Room,HVC
+493,1,36,31-40,"1,000,000-1,500,000 ",26727,HARD COPY,Digital,Female,15,Self-trip,1,Family room,HVC
+494,1,59,51-60,"2,000,000-2,500,000 ",44000,EMAIL,Digital,Male,15,Self-trip,2,Executive Suite,HVC
+495,1,52,51-60,"1,500,000-2,000,000 ",15668,HARD COPY,Digital,Male,23,Business Travel,2,Presidential Suite,HVC
+496,0,35,31-40,"1,000,000-1,500,000 ",17700,EMAIL,Digital,Female,15,Self-trip,1,Family room,HVC
+497,1,46,41-50,"1,500,000-2,000,000 ",3655,EMAIL,Digital,Female,29,Business Travel,1,Presidential Suite,HVC
+498,1,52,51-60,"1,500,000-2,000,000 ",6164.48,HARD COPY,Cash,Male,24,Business Travel,2,Presidential Suite,HVC
+499,1,41,41-50,"1,000,000-1,500,000 ",5360,EMAIL,Cash,Male,34,Business Travel,1,Room,HVC
+500,1,35,31-40,"1,000,000-1,500,000 ",10248,EMAIL,Digital,Male,15,Self-trip,2,Family room,HVC
+501,1,37,31-40,"1,000,000-1,500,000 ",16475,EMAIL,Digital,Female,15,Self-trip,6,Family room,HVC
+502,1,61,above 60,"300,000-500,000",9300,EMAIL,Digital,Male,15,Self-trip,5,Family room,HVC
+503,0,22,21-30,"300,000-500,000",9150,HARD COPY,Digital,Female,15,Self-trip,1,Family room,HVC
+504,1,53,51-60,"1,500,000-2,000,000 ",43750,HARD COPY,Digital,Female,15,Self-trip,3,Executive Suite,HVC
+505,0,58,51-60,"2,000,000-2,500,000 ",9150,HARD COPY,Digital,Male,15,Self-trip,1,Executive Suite,HVC
+506,0,40,31-40,"1,000,000-1,500,000 ",9150,HARD COPY,Digital,Male,15,Self-trip,1,Family room,HVC
+507,0,28,21-30,"700,000-1,000,000",17700,HARD COPY,Digital,Male,15,Self-trip,1,Family room,HVC
+508,0,57,51-60,"2,000,000-2,500,000 ",10479,HARD COPY,Digital,Female,15,Self-trip,1,Executive Suite,HVC
+509,0,22,21-30,"300,000-500,000",9150,EMAIL,Digital,Female,15,Self-trip,2,Family room,HVC
+510,0,22,21-30,"300,000-500,000",2816,EMAIL,Cash,Male,15,Self-trip,5,Family room,HVC
+511,1,57,51-60," 2,500,000+ ",9250,EMAIL,Digital,Female,15,Self-trip,8,Executive Suite,HVC
+512,0,22,21-30,"300,000-500,000",4667,HARD COPY,Cash,Male,15,Self-trip,1,Family room,HVC
+513,0,31,31-40,"300,000-500,000",4667,HARD COPY,Digital,Male,15,Self-trip,1,Family room,HVC
+514,0,26,21-30,"300,000-500,000",9150,HARD COPY,Digital,Female,15,Self-trip,1,Family room,HVC
+515,0,33,31-40,"300,000-500,000",4667,HARD COPY,Digital,Male,15,Self-trip,1,Family room,HVC
+516,0,30,21-30,"300,000-500,000",9150,EMAIL,Cash,Male,15,Self-trip,1,Family room,HVC
+517,0,37,31-40,"1,000,000-1,500,000 ",43500,HARD COPY,Digital,Male,15,Self-trip,1,Family room,HVC
+518,0,28,21-30,"700,000-1,000,000",9150,EMAIL,Digital,Male,15,Self-trip,3,Family room,HVC
+519,0,40,31-40,"1,000,000-1,500,000 ",4667,HARD COPY,Digital,Male,15,Self-trip,1,Family room,HVC
+520,0,32,31-40,"300,000-500,000",9440,HARD COPY,Digital,Male,15,Self-trip,1,Family room,HVC
+521,0,23,21-30,"300,000-500,000",9150,HARD COPY,Digital,Male,15,Self-trip,1,Family room,HVC
+522,0,24,21-30,"300,000-500,000",9150,HARD COPY,Digital,Male,15,Self-trip,1,Family room,HVC
+523,1,48,41-50,"1,500,000-2,000,000 ",2533,HARD COPY,Cash,Male,15,Business Travel,1,Presidential Suite,HVC
+524,0,53,51-60,"1,500,000-2,000,000 ",11837,EMAIL,Digital,Female,20,Self-trip,1,Executive Suite,HVC
+525,1,49,41-50,"1,500,000-2,000,000 ",6049,HARD COPY,Digital,Male,12,Self-trip,1,Executive Suite,HVC
+526,0,33,31-40,"300,000-500,000",4333.88,HARD COPY,Digital,Male,31,Business Travel,1,Room,HVC
+527,0,39,31-40,"1,000,000-1,500,000 ",9350,EMAIL,Digital,Female,15,Self-trip,1,Family room,HVC
+528,1,39,31-40,"1,000,000-1,500,000 ",13800,EMAIL,Digital,Male,12,Self-trip,2,Family room,HVC
+529,0,21,21-30,"700,000-1,000,000",18571,HARD COPY,Digital,Female,15,Self-trip,4,Family room,HVC
+530,0,20,below 20,"300,000-500,000",148500,EMAIL,Digital,Male,12,Self-trip,2,Family room,HVC
+531,0,36,31-40,"1,000,000-1,500,000 ",148500,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+532,0,43,41-50,"1,000,000-1,500,000 ",148500,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+533,0,35,31-40,"1,000,000-1,500,000 ",3482,EMAIL,Digital,Male,15,Business Travel,1,Room,HVC
+534,0,24,21-30,"300,000-500,000",7350,EMAIL,Digital,Male,12,Self-trip,4,Family room,HVC
+535,0,36,31-40,"1,000,000-1,500,000 ",34540,HARD COPY,Digital,Male,12,Self-trip,2,Family room,HVC
+536,1,52,51-60,"1,500,000-2,000,000 ",34250,EMAIL,Cash,Female,12,Self-trip,1,Executive Suite,HVC
+537,0,37,31-40,"1,000,000-1,500,000 ",10634,EMAIL,Cash,Male,12,Self-trip,1,Family room,HVC
+538,0,31,31-40,"300,000-500,000",7350,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+539,0,29,21-30,"700,000-1,000,000",7350,HARD COPY,Cash,Male,12,Self-trip,1,Family room,HVC
+540,0,33,31-40,"225,000-250,000",13800,EMAIL,Digital,Female,12,Self-trip,2,Family room,HVC
+541,0,40,31-40,"1,000,000-1,500,000 ",20250,HARD COPY,Cash,Male,12,Self-trip,1,Family room,HVC
+542,1,61,above 60,"300,000-500,000",14400,EMAIL,Digital,Female,12,Self-trip,1,Family room,HVC
+543,0,32,31-40,"300,000-500,000",20250,EMAIL,Digital,Female,12,Self-trip,1,Family room,HVC
+544,0,25,21-30,"300,000-500,000",10575,EMAIL,Digital,Female,12,Self-trip,1,Family room,HVC
+545,0,23,21-30,"300,000-500,000",10575,EMAIL,Digital,Male,12,Self-trip,1,Family room,HVC
+546,0,33,31-40,"300,000-500,000",20250,EMAIL,Digital,Male,12,Self-trip,3,Family room,HVC
+547,0,33,31-40,"300,000-500,000",5020,EMAIL,Digital,Male,20,Self-trip,1,Family room,HVC
+548,0,34,31-40,"300,000-500,000",7350,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+549,0,41,41-50,"1,000,000-1,500,000 ",20967,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+550,1,59,51-60," 2,500,000+ ",4319,HARD COPY,Digital,Male,15,Business Travel,1,Presidential Suite,HVC
+551,1,48,41-50,"1,500,000-2,000,000 ",2533,HARD COPY,Digital,Male,15,Business Travel,1,Presidential Suite,HVC
+552,1,46,41-50,"1,500,000-2,000,000 ",2327,HARD COPY,Digital,Male,15,Business Travel,1,Presidential Suite,HVC
+553,1,47,41-50,"1,500,000-2,000,000 ",2426,HARD COPY,Digital,Male,15,Business Travel,1,Presidential Suite,HVC
+554,0,25,21-30,"700,000-1,000,000",43500,EMAIL,Digital,Male,15,Self-trip,4,Family room,HVC
+555,0,21,21-30,"300,000-500,000",43500,EMAIL,Digital,Male,15,Self-trip,4,Family room,HVC
+556,0,28,21-30,"300,000-500,000",22125,EMAIL,Digital,Female,15,Self-trip,1,Family room,HVC
+557,1,51,51-60,"1,500,000-2,000,000 ",4876,HARD COPY,Digital,Male,15,Self-trip,1,Executive Suite,HVC
+558,0,25,21-30,"300,000-500,000",13500,EMAIL,Digital,Female,15,Self-trip,2,Family room,HVC
+559,0,53,51-60,"1,500,000-2,000,000 ",14855,EMAIL,Digital,Female,15,Self-trip,4,Executive Suite,HVC
+560,0,24,21-30,"300,000-500,000",4667,HARD COPY,Digital,Female,15,Self-trip,1,Family room,HVC
+561,0,21,21-30,"300,000-500,000",4148,EMAIL,Cash,Male,21,Self-trip,2,Family room,HVC
+562,0,22,21-30,"700,000-1,000,000",4667,HARD COPY,Digital,Female,15,Self-trip,1,Family room,HVC
+563,0,21,21-30,"300,000-500,000",7350,EMAIL,Cash,Male,12,Self-trip,2,Family room,HVC
+564,1,43,41-50,"1,000,000-1,500,000 ",7626,EMAIL,Digital,Male,15,Self-trip,1,Family room,HVC
+565,0,37,31-40,"1,000,000-1,500,000 ",14754,EMAIL,Digital,Male,15,Self-trip,2,Family room,HVC
+566,0,37,31-40,"1,000,000-1,500,000 ",10870,EMAIL,Digital,Male,24,Self-trip,1,Family room,HVC
+567,1,35,31-40,"1,000,000-1,500,000 ",7650,HARD COPY,Digital,Male,31,Tourist-trip,1,Suite,HVC
+568,1,47,41-50,"1,500,000-2,000,000 ",12776,EMAIL,Digital,Male,31,Tourist-trip,1,Suite,HVC
+569,1,62,above 60,"300,000-500,000",178700,EMAIL,Digital,Male,22,Tourist-trip,2,Suite,HVC
+570,1,62,above 60,"300,000-500,000",90350,EMAIL,Digital,Male,22,Tourist-trip,2,Suite,HVC
+571,0,20,below 20,"300,000-500,000",67500,EMAIL,Digital,Female,12,Self-trip,2,Family room,HVC
+572,0,23,21-30,"300,000-500,000",67500,HARD COPY,Digital,Female,12,Self-trip,4,Family room,HVC
+573,0,37,31-40,"1,000,000-1,500,000 ",7682,EMAIL,Cash,Female,15,Self-trip,3,Family room,HVC
+574,0,45,41-50,"1,500,000-2,000,000 ",9877,HARD COPY,Digital,Female,15,Self-trip,2,Executive Suite,HVC
+575,0,53,51-60,"1,500,000-2,000,000 ",10330,HARD COPY,Digital,Male,15,Self-trip,1,Executive Suite,HVC
+576,0,38,31-40,"1,000,000-1,500,000 ",17700,HARD COPY,Digital,Male,15,Self-trip,1,Family room,HVC
+577,0,31,31-40,"300,000-500,000",49490,HARD COPY,Cash,Female,15,Self-trip,1,Family room,HVC
+578,1,54,51-60,"1,500,000-2,000,000 ",30150,HARD COPY,Digital,Male,30,Tourist-trip,1,Suite,HVC
+579,1,44,41-50,"1,000,000-1,500,000 ",32900,HARD COPY,Digital,Male,31,Tourist-trip,1,Suite,HVC
+580,0,21,21-30,"300,000-500,000",9608,EMAIL,Digital,Male,15,Self-trip,2,Family room,HVC
+581,0,37,31-40,"1,000,000-1,500,000 ",10662,EMAIL,Digital,Female,15,Self-trip,1,Family room,HVC
+582,0,30,21-30,"300,000-500,000",44500,EMAIL,Digital,Male,15,Self-trip,1,Family room,HVC
+583,0,21,21-30,"300,000-500,000",11438,EMAIL,Digital,Male,15,Self-trip,1,Family room,HVC
+584,1,56,51-60," 2,500,000+ ",29300,HARD COPY,Digital,Male,29,Tourist-trip,1,Suite,HVC
+585,1,54,51-60,"1,500,000-2,000,000 ",9945,HARD COPY,Digital,Male,12,Self-trip,1,Executive Suite,HVC
+586,0,20,below 20,"300,000-500,000",7405,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+587,1,55,51-60," 2,500,000+ ",24702,HARD COPY,Digital,Male,15,Self-trip,1,Executive Suite,HVC
+588,0,27,21-30,"300,000-500,000",4667,HARD COPY,Digital,Female,15,Self-trip,1,Family room,HVC
+589,1,42,41-50,"1,000,000-1,500,000 ",3110,EMAIL,Digital,Male,25,Business Travel,1,Room,HVC
+590,1,42,41-50,"1,000,000-1,500,000 ",19913,HARD COPY,Digital,Male,15,Self-trip,1,Family room,HVC
+591,0,25,21-30,"700,000-1,000,000",49367,EMAIL,Digital,Male,15,Self-trip,2,Family room,HVC
+592,1,40,31-40,"1,000,000-1,500,000 ",2002,HARD COPY,Digital,Male,25,Business Travel,1,Room,HVC
+593,1,40,31-40,"1,000,000-1,500,000 ",1902,HARD COPY,Cash,Female,34,Business Travel,1,Room,HVC
+594,0,35,31-40,"1,000,000-1,500,000 ",2118,EMAIL,Cash,Female,15,Business Travel,1,Room,HVC
+595,0,43,41-50,"1,000,000-1,500,000 ",2980,HARD COPY,Cash,Female,12,Self-trip,2,Family room,HVC
+596,0,31,31-40,"300,000-500,000",13800,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+597,0,27,21-30,"300,000-500,000",33750,EMAIL,Digital,Female,12,Self-trip,3,Family room,HVC
+598,0,25,21-30,"300,000-500,000",33750,EMAIL,Digital,Male,12,Self-trip,2,Family room,HVC
+599,0,26,21-30,"300,000-500,000",17550,EMAIL,Digital,Male,12,Self-trip,2,Family room,HVC
+600,1,46,41-50,"1,500,000-2,000,000 ",2327,EMAIL,Digital,Male,15,Business Travel,1,Presidential Suite,HVC
+601,1,36,31-40,"1,000,000-1,500,000 ",3482,EMAIL,Digital,Female,15,Business Travel,3,Room,HVC
+602,0,37,31-40,"1,000,000-1,500,000 ",1802,EMAIL,Cash,Male,15,Business Travel,2,Room,HVC
+603,0,34,31-40,"300,000-500,000",3388,EMAIL,Digital,Female,15,Business Travel,2,Room,HVC
+604,0,30,21-30,"300,000-500,000",3288,HARD COPY & EMAIL,Cash,Male,15,Business Travel,4,Room,HVC
+605,0,40,31-40,"1,000,000-1,500,000 ",3844,HARD COPY,Digital,Male,15,Business Travel,1,Room,HVC
+606,1,40,31-40,"1,000,000-1,500,000 ",3750,EMAIL,Cash,Female,15,Business Travel,2,Room,HVC
+607,0,38,31-40,"1,000,000-1,500,000 ",3668,EMAIL,Digital,Male,15,Business Travel,1,Room,HVC
+608,1,43,41-50,"1,000,000-1,500,000 ",6339,EMAIL,Cash,Male,15,Business Travel,1,Room,HVC
+609,0,34,31-40,"300,000-500,000",3422,HARD COPY,Digital,Male,15,Business Travel,1,Room,HVC
+610,1,57,51-60," 2,500,000+ ",18330,EMAIL,Digital,Male,12,Self-trip,2,Executive Suite,HVC
+611,0,39,31-40,"1,000,000-1,500,000 ",24800,HARD COPY,Digital,Male,10,Self-trip,1,Family room,HVC
+612,1,33,31-40,"300,000-500,000",9791,HARD COPY,Digital,Male,15,Self-trip,1,Family room,HVC
+613,1,41,41-50,"1,000,000-1,500,000 ",14000,HARD COPY,Digital,Male,12,Self-trip,2,Family room,HVC
+614,1,52,51-60,"1,500,000-2,000,000 ",7450,EMAIL,Digital,Male,12,Self-trip,1,Executive Suite,HVC
+615,0,38,31-40,"1,000,000-1,500,000 ",33750,EMAIL,Cash,Male,12,Self-trip,1,Family room,HVC
+616,1,55,51-60," 2,500,000+ ",35250,HARD COPY,Digital,Female,12,Self-trip,2,Executive Suite,HVC
+617,0,47,41-50,"1,500,000-2,000,000 ",17737,EMAIL,Digital,Female,12,Self-trip,2,Executive Suite,HVC
+618,1,51,51-60,"1,500,000-2,000,000 ",11645.72,EMAIL,Digital,Male,25,Business Travel,1,Presidential Suite,HVC
+619,1,44,41-50,"1,000,000-1,500,000 ",3386,EMAIL,Digital,Male,31,Business Travel,2,Room,HVC
+620,0,34,31-40,"300,000-500,000",4300,EMAIL,Cash,Male,25,Business Travel,1,Room,HVC
+621,1,53,51-60,"1,500,000-2,000,000 ",7450,HARD COPY,Digital,Female,12,Self-trip,1,Executive Suite,HVC
+622,0,36,31-40,"1,000,000-1,500,000 ",4752,EMAIL,Digital,Female,15,Business Travel,3,Room,HVC
+623,0,37,31-40,"1,000,000-1,500,000 ",33750,EMAIL,Digital,Male,12,Self-trip,3,Family room,HVC
+624,1,57,51-60," 2,500,000+ ",45000,HARD COPY,Digital,Male,15,Self-trip,1,Executive Suite,HVC
+625,1,45,41-50,"1,500,000-2,000,000 ",3320,EMAIL,Cash,Male,29,Business Travel,1,Presidential Suite,HVC
+626,0,37,31-40,"1,000,000-1,500,000 ",1834,EMAIL,Digital,Male,15,Business Travel,3,Room,HVC
+627,1,44,41-50,"1,000,000-1,500,000 ",4226,EMAIL,Digital,Male,15,Business Travel,1,Room,HVC
+628,1,41,41-50,"1,000,000-1,500,000 ",1960,EMAIL,Cash,Male,15,Business Travel,1,Room,HVC
+629,0,52,51-60,"1,500,000-2,000,000 ",7350,EMAIL,Digital,Female,12,Self-trip,2,Executive Suite,HVC
+630,0,25,21-30,"300,000-500,000",7350,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+631,0,27,21-30,"300,000-500,000",7350,EMAIL,Digital,Male,12,Self-trip,5,Family room,HVC
+632,0,26,21-30,"700,000-1,000,000",7350,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+633,1,41,41-50,"1,000,000-1,500,000 ",1960,HARD COPY,Cash,Male,15,Business Travel,1,Room,HVC
+634,1,46,41-50,"1,500,000-2,000,000 ",2327,HARD COPY,Cash,Male,15,Business Travel,1,Presidential Suite,HVC
+635,0,29,21-30,"300,000-500,000",20250,EMAIL,Digital,Male,12,Self-trip,4,Family room,HVC
+636,1,51,51-60,"1,500,000-2,000,000 ",3409,EMAIL,Digital,Male,24,Business Travel,1,Presidential Suite,HVC
+637,1,33,31-40,"300,000-500,000",13800,HARD COPY,Cash,Female,12,Self-trip,1,Family room,HVC
+638,0,42,41-50,"1,000,000-1,500,000 ",59600,EMAIL,Digital,Male,10,Self-trip,2,Family room,HVC
+639,0,56,51-60," 2,500,000+ ",59600,EMAIL,Digital,Male,10,Self-trip,1,Executive Suite,HVC
+640,1,46,41-50,"1,500,000-2,000,000 ",7994,HARD COPY,Digital,Female,30,Business Travel,1,Presidential Suite,HVC
+641,0,32,31-40,"300,000-500,000",13800,EMAIL,Cash,Female,12,Self-trip,2,Family room,HVC
+642,1,46,41-50,"1,500,000-2,000,000 ",17577,HARD COPY,Digital,Male,30,Business Travel,1,Presidential Suite,HVC
+643,1,37,31-40,"1,000,000-1,500,000 ",3976,HARD COPY,Digital,Female,31,Business Travel,1,Room,HVC
+644,1,42,41-50,"1,000,000-1,500,000 ",12003,HARD COPY,Digital,Male,34,Business Travel,1,Room,HVC
+645,1,60,51-60," 2,500,000+ ",10013,EMAIL,Digital,Male,16,Business Travel,6,Presidential Suite,HVC
+646,0,59,51-60," 2,500,000+ ",7610,HARD COPY,Digital,Female,12,Self-trip,1,Executive Suite,HVC
+647,0,34,31-40,"300,000-500,000",7610,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+648,0,34,31-40,"300,000-500,000",48923,EMAIL,Cash,Female,12,Self-trip,1,Family room,HVC
+649,0,33,31-40,"300,000-500,000",7970.66,EMAIL,Digital,Female,20,Self-trip,3,Family room,HVC
+650,0,33,31-40,"300,000-500,000",7971,HARD COPY,Digital,Female,20,Self-trip,1,Family room,HVC
+651,0,23,21-30,"300,000-500,000",20250,EMAIL,Digital,Female,12,Self-trip,1,Family room,HVC
+652,0,41,41-50,"1,000,000-1,500,000 ",20250,EMAIL,Digital,Male,12,Self-trip,1,Family room,HVC
+653,1,42,41-50,"1,000,000-1,500,000 ",6773,HARD COPY,Digital,Male,34,Business Travel,1,Room,HVC
+654,1,39,31-40,"1,000,000-1,500,000 ",4545,HARD COPY,Digital,Female,31,Business Travel,1,Room,HVC
+655,0,31,31-40,"300,000-500,000",7350,EMAIL,Digital,Male,12,Self-trip,1,Family room,HVC
+656,0,25,21-30,"300,000-500,000",7350,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+657,0,58,51-60," 2,500,000+ ",13800,EMAIL,Digital,Female,12,Self-trip,4,Executive Suite,HVC
+658,0,46,41-50,"1,500,000-2,000,000 ",5675,HARD COPY,Digital,Female,26,Self-trip,1,Executive Suite,HVC
+659,0,37,31-40,"1,000,000-1,500,000 ",3510,EMAIL,Digital,Male,25,Business Travel,1,Room,HVC
+660,0,28,21-30,"300,000-500,000",2850,HARD COPY,Digital,Female,25,Business Travel,1,Room,HVC
+661,1,36,31-40,"1,000,000-1,500,000 ",5675,HARD COPY,Digital,Male,25,Business Travel,1,Room,HVC
+662,0,39,31-40,"1,000,000-1,500,000 ",4860,EMAIL,Digital,Male,25,Business Travel,4,Room,HVC
+663,1,39,31-40,"1,000,000-1,500,000 ",13800,EMAIL,Cash,Female,12,Self-trip,3,Family room,HVC
+664,0,22,21-30,"700,000-1,000,000",7350,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+665,0,27,21-30,"700,000-1,000,000",7610,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+666,0,25,21-30,"300,000-500,000",7350,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+667,0,55,51-60," 2,500,000+ ",177711,EMAIL,Cash,Female,12,Self-trip,3,Executive Suite,HVC
+668,0,47,41-50,"1,500,000-2,000,000 ",17700,EMAIL,Digital,Male,15,Self-trip,1,Executive Suite,HVC
+669,1,35,31-40,"1,000,000-1,500,000 ",14703,EMAIL,Cash,Male,15,Self-trip,1,Family room,HVC
+670,0,51,51-60,"1,500,000-2,000,000 ",15618,HARD COPY,Digital,Male,16,Self-trip,1,Executive Suite,HVC
+671,1,45,41-50,"1,500,000-2,000,000 ",8850,HARD COPY,Digital,Male,25,Business Travel,1,Presidential Suite,HVC
+672,0,32,31-40,"300,000-500,000",14507,HARD COPY,Digital,Female,17,Self-trip,1,Family room,HVC
+673,1,41,41-50,"1,000,000-1,500,000 ",14818,EMAIL,Cash,Male,12,Self-trip,2,Family room,HVC
+674,0,36,31-40,"1,000,000-1,500,000 ",7896,HARD COPY,Cash,Female,12,Self-trip,1,Family room,HVC
+675,0,30,21-30,"300,000-500,000",9223,EMAIL,Digital,Male,21,Self-trip,1,Family room,HVC
+676,0,20,below 20,"300,000-500,000",7350,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+677,0,34,31-40,"300,000-500,000",2825,EMAIL,Cash,Female,15,Business Travel,3,Room,HVC
+678,0,30,21-30,"300,000-500,000",2335,EMAIL,Digital,Male,15,Business Travel,1,Room,HVC
+679,1,35,31-40,"1,000,000-1,500,000 ",10065,EMAIL,Digital,Male,15,Self-trip,2,Family room,HVC
+680,0,22,21-30,"300,000-500,000",20724,HARD COPY,Digital,Female,12,Self-trip,1,Family room,HVC
+681,0,24,21-30,"300,000-500,000",138159,EMAIL,Digital,Female,12,Self-trip,2,Family room,HVC
+682,0,53,51-60,"1,500,000-2,000,000 ",50000,EMAIL,Digital,Male,12,Business Travel,1,Presidential Suite,HVC
+683,1,43,41-50,"1,000,000-1,500,000 ",19920,HARD COPY,Digital,Male,31,Tourist-trip,1,Suite,HVC
+684,1,36,31-40,"1,000,000-1,500,000 ",12600,HARD COPY,Digital,Male,31,Tourist-trip,1,Suite,HVC
+685,0,36,31-40,"1,000,000-1,500,000 ",3405,HARD COPY,Digital,Male,20,Self-trip,1,Family room,HVC
+686,1,45,41-50,"1,500,000-2,000,000 ",8951,EMAIL,Digital,Male,32,Business Travel,1,Presidential Suite,HVC
+687,1,42,41-50,"1,000,000-1,500,000 ",7606,EMAIL,Digital,Female,34,Business Travel,1,Room,HVC
+688,0,32,31-40,"700,000-1,000,000",7928,HARD COPY,Digital,Female,20,Self-trip,1,Family room,HVC
+689,1,39,31-40,"1,000,000-1,500,000 ",2008,EMAIL,Digital,Female,31,Business Travel,1,Room,HVC
+690,1,46,41-50,"1,500,000-2,000,000 ",3250,EMAIL,Digital,Female,30,Business Travel,1,Presidential Suite,HVC
+691,0,40,31-40,"1,000,000-1,500,000 ",4078,HARD COPY,Digital,Female,31,Business Travel,3,Room,HVC
+692,0,40,31-40,"1,000,000-1,500,000 ",7458,EMAIL,Digital,Female,31,Business Travel,1,Room,HVC
+693,1,45,41-50,"1,500,000-2,000,000 ",2543,HARD COPY,Digital,Female,31,Business Travel,2,Presidential Suite,HVC
+694,1,51,51-60,"1,500,000-2,000,000 ",39176,EMAIL,Digital,Female,12,Self-trip,2,Executive Suite,HVC
+695,0,35,31-40,"1,000,000-1,500,000 ",3588,EMAIL,Cash,Male,12,Self-trip,5,Family room,HVC
+696,1,44,41-50,"1,000,000-1,500,000 ",5090,HARD COPY,Digital,Female,20,Self-trip,1,Family room,HVC
+697,0,38,31-40,"1,000,000-1,500,000 ",26550,EMAIL,Digital,Female,15,Self-trip,1,Family room,HVC
+698,1,42,41-50,"1,000,000-1,500,000 ",9698,HARD COPY,Digital,Male,15,Self-trip,1,Family room,HVC
+699,1,44,41-50,"1,000,000-1,500,000 ",4474,EMAIL,Cash,Male,15,Business Travel,1,Room,HVC
+700,0,23,21-30,"300,000-500,000",7350,HARD COPY,Digital,Female,12,Self-trip,2,Family room,HVC
+701,0,23,21-30,"300,000-500,000",13800,HARD COPY,Digital,Male,12,Self-trip,1,Family room,HVC
+702,0,31,31-40,"700,000-1,000,000",4947,EMAIL,Digital,Male,15,Self-trip,3,Family room,HVC
+703,1,41,41-50,"1,000,000-1,500,000 ",7550,EMAIL,Digital,Male,12,Self-trip,1,Family room,HVC
+704,1,37,31-40,"1,000,000-1,500,000 ",8990,EMAIL,Cash,Male,15,Business Travel,5,Room,HVC
+705,1,42,41-50,"1,000,000-1,500,000 ",1960,EMAIL,Digital,Male,15,Business Travel,4,Room,HVC
+706,0,47,41-50,"1,500,000-2,000,000 ",2426,EMAIL,Digital,Male,15,Business Travel,2,Presidential Suite,HVC
+707,1,63,above 60,"300,000-500,000",5268,EMAIL,Cash,Male,15,Business Travel,3,Room,HVC
+708,1,40,31-40,"1,000,000-1,500,000 ",5766,EMAIL,Digital,Male,15,Business Travel,1,Room,HVC
+709,0,33,31-40,"300,000-500,000",16770,EMAIL,Cash,Male,15,Business Travel,1,Room,HVC
+710,1,49,41-50,"1,500,000-2,000,000 ",10384,HARD COPY,Cash,Male,15,Business Travel,1,Presidential Suite,HVC
+711,0,33,31-40,"700,000-1,000,000",3388,HARD COPY,Digital,Female,15,Business Travel,3,Room,HVC
+712,1,38,31-40,"1,000,000-1,500,000 ",5502,HARD COPY,Cash,Male,15,Business Travel,1,Room,HVC
+713,1,45,41-50,"1,500,000-2,000,000 ",2327,EMAIL,Cash,Male,15,Business Travel,1,Presidential Suite,HVC
+714,0,33,31-40,"300,000-500,000",2592,EMAIL,Digital,Female,15,Business Travel,5,Room,HVC
+715,1,51,51-60,"1,500,000-2,000,000 ",8538,HARD COPY & EMAIL,Cash,Male,15,Business Travel,2,Presidential Suite,HVC

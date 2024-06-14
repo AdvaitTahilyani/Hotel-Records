@@ -1,0 +1,24 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Load
+{% endblock %}
+{% block main %}
+        <div>
+        <h1>Confirm</h1>
+        <p>Are you sure you want to delete all existing data and load new data?</p>
+      </div>
+      <div>
+        <form action="/loaded" method="post">
+        <button type="submit" class="btn btn-primary">Yes</button>
+        </form><button id="myButton">Cancel</button>
+    </div>
+
+<script type="text/javascript">
+    document.getElementById("myButton").onclick = function () {
+        location.href = "/";
+    };
+</script>
+<script>
+</script>
+{% endblock %}

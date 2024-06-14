@@ -1,0 +1,20 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Advance
+{% endblock %}
+
+{% block main %}
+    <form action="/advance" method="post">
+        {%for i in range(8)%}
+            <div class = "form-group">
+                <h4>{{look[i]}}</h4>
+                    {%for j in check[i]%}
+                        <input type="checkbox" id="{{j[search[i]]}}" name="{{j[search[i]]}}" value="{{j[search[i]]}}">
+                        <label for="{{j[search[i]]}}"> {{j[search[i]]}}</label><br>
+                    {%endfor%}
+            </div>
+        {%endfor%}
+        <button class="btn btn-primary" type="submit">Search</button>
+    </form>
+{% endblock %}
